@@ -10,4 +10,4 @@ Tach! Tobi hier!
 
 So, ich hab beschlossen jetzt auch mal mehr als nur Urlaubs Erfahrungen zu bloggen. Und somit findet ihr ab jetzt an dieser Stelle lustige, intressante wenn auch unnötige Postings aus meinem Alltag. Ab gehts!
 
-P.S: Im Archiv findet ihr auch noch meine Australia Eintäge. Wer also noch bissl stöbern will, gerne!
+P.S: Im Archiv findet ihr auch noch meine Australia Einträge. Wer also noch bissl stöbern will, gerne!
