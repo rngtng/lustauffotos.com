@@ -1,5 +1,5 @@
 url: http://www.lustauffotos.com/
 name: Lustauffotos.de
 description: ""
-# remote_theme: BlackrockDigital/startbootstrap-clean-blog-jekyll
-theme: minima
+remote_theme: BlackrockDigital/startbootstrap-clean-blog-jekyll
+#theme: minima
