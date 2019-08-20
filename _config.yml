@@ -1,11 +1,10 @@
-url: http://www.lustauffotos.com/
-name: Lustauffotos.de
-description: ""
-remote_theme: BlackrockDigital/startbootstrap-clean-blog-jekyll
-#theme: minima
-
-author:             tobi
+title: Lustauffotos.com
+description: " "
+author: tobi
 # baseurl:            "/startbootstrap-clean-blog-jekyll"
+url: http://www.lustauffotos.com/
+
+remote_theme: BlackrockDigital/startbootstrap-clean-blog-jekyll
 
 # Social Profiles
 # twitter_username:   rngtng
