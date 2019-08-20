@@ -16,7 +16,7 @@ author:             tobi
 
 # Build settings
 markdown:           kramdown
-paginate:           5
+paginate:           25
 paginate_path:      "/posts/page:num/"
 plugins:
   - jekyll-feed

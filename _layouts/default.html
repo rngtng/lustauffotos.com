@@ -16,7 +16,12 @@
 
   {% include google-analytics.html %}
 
-  {% include open-embed.html %}
+  <script src="{{"/assets/jquery.oembed.js" | relative_url }}"></script>
+  <link rel="stylesheet" href="{{"/assets/jquery.oembed.css" | relative_url }}">
+
+  <script>
+    $("p a").oembed()
+  </script>
 </body>
 
 </html>
