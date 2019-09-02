@@ -17,7 +17,7 @@ Muss ich mal ausprobieren:
 
 &nbsp;
 
-[<img class="aligncenter size-full wp-image-323" alt="dyi" src="http://www.lustauffotos.com/files/2014/01/dyi.jpg" width="600" height="510" srcset="http://www.lustauffotos.com/files/2014/01/dyi.jpg 600w, http://www.lustauffotos.com/files/2014/01/dyi-300x255.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" />](http://www.lustauffotos.com/files/2014/01/dyi.jpg){.broken_link}
+[<img class="aligncenter size-full wp-image-323" alt="dyi" src="http://www.lustauffotos.com/files/2014/01/dyi.jpg" width="600" height="510" srcset="http://www.lustauffotos.com/files/2014/01/dyi.jpg 600w, http://www.lustauffotos.com/files/2014/01/dyi-300x255.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" />](http://www.lustauffotos.com/files/2014/01/dyi.jpg)
 
 &nbsp;
 

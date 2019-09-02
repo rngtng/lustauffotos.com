@@ -11,7 +11,7 @@ categories:
 tags:
   - bahn
 ---
-[<img class="aligncenter size-full wp-image-343" alt="BahnWTF" src="http://www.lustauffotos.com/files/2014/01/BahnWTF.png" width="450" height="203" srcset="http://www.lustauffotos.com/files/2014/01/BahnWTF.png 450w, http://www.lustauffotos.com/files/2014/01/BahnWTF-300x135.png 300w" sizes="(max-width: 450px) 100vw, 450px" />](http://www.lustauffotos.com/files/2014/01/BahnWTF.png){.broken_link}
+[<img class="aligncenter size-full wp-image-343" alt="BahnWTF" src="http://www.lustauffotos.com/files/2014/01/BahnWTF.png" width="450" height="203" srcset="http://www.lustauffotos.com/files/2014/01/BahnWTF.png 450w, http://www.lustauffotos.com/files/2014/01/BahnWTF-300x135.png 300w" sizes="(max-width: 450px) 100vw, 450px" />](http://www.lustauffotos.com/files/2014/01/BahnWTF.png)
 
 &nbsp;
 

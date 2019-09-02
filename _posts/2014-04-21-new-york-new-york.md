@@ -9,7 +9,7 @@ permalink: /2014/new-york-new-york/
 categories:
   - New York
 ---
-[<img class="aligncenter wp-image-415 size-full" src="http://www.lustauffotos.com/files/2014/04/wkThPkABn_8oS9sW1RBeOJxNiATeQYKCnaLqnCDlv1w-e1398101045824.png" alt="wkThPkABn_8oS9sW1RBeOJxNiATeQYKCnaLqnCDlv1w" width="500" height="237" />](http://www.lustauffotos.com/files/2014/04/wkThPkABn_8oS9sW1RBeOJxNiATeQYKCnaLqnCDlv1w.png){.broken_link}
+[<img class="aligncenter wp-image-415 size-full" src="http://www.lustauffotos.com/files/2014/04/wkThPkABn_8oS9sW1RBeOJxNiATeQYKCnaLqnCDlv1w-e1398101045824.png" alt="wkThPkABn_8oS9sW1RBeOJxNiATeQYKCnaLqnCDlv1w" width="500" height="237" />](http://www.lustauffotos.com/files/2014/04/wkThPkABn_8oS9sW1RBeOJxNiATeQYKCnaLqnCDlv1w.png)
 
 Bamm! Ick bin nu in New York! Somit gibts hier bald eine paar Reiseberichte & Fotos. Ansonsten findet ihr mich auch auf [Instagram](http://instagram.com/tobitobes) und [Foursquare](https://foursquare.com/user/131807).
 
