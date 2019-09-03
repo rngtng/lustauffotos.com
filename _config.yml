@@ -29,3 +29,9 @@ defaults:
       type: "posts"
     values:
       background: '/assets/header.png'
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      background: '/assets/header.png'
