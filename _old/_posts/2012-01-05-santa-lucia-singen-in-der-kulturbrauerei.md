@@ -11,14 +11,14 @@ categories:
 ---
 In alter Tradition haben wir wieder auf dem Skandinavischen Weihnachtsmarkt in der Kulturbrauerei Berlin das Lucia Fest gefeiert, Bilder und Text hier:
 
-&nbsp;
+ 
 
-&nbsp;
+ 
 
 <img class="aligncenter" src="http://www.prenzlberger-stimme.de/wordpress/wp-content/uploads/2011/12/118-300x225.jpg" alt="" /> 
 
-&nbsp;
+ 
 
-&nbsp;
+ 
 
 <http://www.prenzlberger-stimme.de/?p=36328>

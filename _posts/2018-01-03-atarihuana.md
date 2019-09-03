@@ -9,7 +9,7 @@ categories:
 tags: []
 comments: []
 ---
-OMG! Atarihuana wurde diese Jahr nicht [nur 15 Jahre jung](<http://www.backspin.de/15-jahre-atarihuana),> sondern ich kann die Platte nun auch endlich aufm Teller drehen!
+OMG! Atarihuana wurde diese Jahr nicht [nur 15 Jahre jung](http://www.backspin.de/15-jahre-atarihuana), sondern ich kann die Platte nun auch endlich aufm Teller drehen!
 
 Baam, oder besser: Boom!
 

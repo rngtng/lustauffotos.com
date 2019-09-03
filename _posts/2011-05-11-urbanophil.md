@@ -11,6 +11,6 @@ tags:
 - timelaps
 comments: []
 ---
-[vimeo]<http://vimeo.com/23237102[/vimeo]>
+<http://vimeo.com/23237102>
 
 _Timelapse - The City Limits_

@@ -35,7 +35,7 @@ Fietswinkel, Neukölln - <http://vimeo.com/22103603>
 
 Auf der Fahrradversteigerung war ich auch, jedoch waren die 300 Räder in eher schlechtem zustand und das Interesse sehr gross. Ein Rad das ich  
 für max 80 EUR gekauft hätte ging für 220 weg. Verrückt.  
-&nbsp;
+ 
 
 Von Matze:
 

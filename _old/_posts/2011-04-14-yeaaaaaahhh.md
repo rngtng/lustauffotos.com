@@ -9,4 +9,4 @@ permalink: /2011/yeaaaaaahhh/
 categories:
   - Nonsense
 ---
-[vimeo]<http://vimeo.com/22385788[/vimeo]>
+<http://vimeo.com/22385788>

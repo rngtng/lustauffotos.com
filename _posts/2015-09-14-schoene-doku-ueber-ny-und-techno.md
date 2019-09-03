@@ -12,6 +12,4 @@ comments: []
 ---
 <https://www.youtube.com/watch?v=LDtf0uIUPuE>
 
-&nbsp;
-
 [via Matze]

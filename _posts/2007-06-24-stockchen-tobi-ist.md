@@ -9,11 +9,11 @@ categories:
 tags: []
 comments: []
 ---
-ok, [ich mach auch mit](<http://www.inopportunismus.de/?p=87),> ist lustig:
+ok, [ich mach auch mit](http://www.inopportunismus.de/?p=87), ist lustig:
 
 Tobi ist...  
  ...kein Prinz, eher das Gegenteil  
- ...sehr gemein zu tieren! (mit [videobeweis](<http://www.youtube.com/watch?v=o_Qp5x-Zs9E))>  
+ ...sehr gemein zu tieren! (mit [videobeweis](http://www.youtube.com/watch?v=o_Qp5x-Zs9E))  
  ...unwichtig!  
  ...auf der Flucht  
  ...eine Lusche beim Putten  

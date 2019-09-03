@@ -13,4 +13,4 @@ comments: []
 ---
 <https://vimeo.com/97252276>
 
-[Director, Producer,&nbsp;Dramaturgy & Camera: Peter]
+[Director, Producer, Dramaturgy & Camera: Peter]

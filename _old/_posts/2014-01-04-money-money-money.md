@@ -31,14 +31,14 @@ Diese Seiten mal im Auge behalten 🙂
   * <https://www.deutsche-mikroinvest.de/leetmate>
   * <https://www.deutsche-mikroinvest.de/xwind>
 
-&nbsp;
+ 
 
 **Und Sonst so**
 
   * <https://www.companisto.de>
   * <http://www.keinertfinanzstrategie.de>
 
-&nbsp;
+ 
 
 Und ein Paper von Lena:  
 <http://instituteforstrategicclarity.org/wp-content/uploads/2013/05/ISC_Strings-of-Agreements-with-Money-020910.pdf>

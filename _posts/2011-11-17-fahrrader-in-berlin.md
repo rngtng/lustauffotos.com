@@ -32,11 +32,10 @@ Fietswinkel, Neukölln - <http://vimeo.com/22103603>
 <http://www.fahrradmarkt-berlin.de/termine_gebrauchtes_fahrrad_berlin.html>
 
 Auf der Fahrradversteigerung war ich auch, jedoch waren die 300 Räder in eher schlechtem zustand und das Interesse sehr gross. Ein Rad das ich  
-für max 80 EUR gekauft hätte ging für 220 weg. Verrückt.  
-&nbsp;
+für max 80 EUR gekauft hätte ging für 220 weg. Verrückt.
 
 Von Matze:
 
 Das fand ich sehr gut zusammengefasst, wenn man nicht zu viel Zeit mit Informieren zubringen will:
 
-[<http://radtouren-magazin.com/2656/test-technik/kaufberatung-reiserad-darauf-sollten-sie-achten-wenn-sie-ein-rad-fur-die-reise-suchen](http://radtouren-magazin.com/2656/test-technik/kaufberatung-reiserad-darauf-sollten-sie-achten-wenn-sie-ein-rad-fur-die-reise-suchen)>
+[http://radtouren-magazin.com/2656/test-technik/kaufberatung-reiserad-darauf-sollten-sie-achten-wenn-sie-ein-rad-fur-die-reise-suchen](http://radtouren-magazin.com/2656/test-technik/kaufberatung-reiserad-darauf-sollten-sie-achten-wenn-sie-ein-rad-fur-die-reise-suchen)

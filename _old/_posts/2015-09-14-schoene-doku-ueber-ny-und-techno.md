@@ -10,6 +10,6 @@ categories:
   - Music
   - New York
 ---
-&nbsp;
+ 
 
 [via Matze]

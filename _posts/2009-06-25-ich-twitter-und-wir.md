@@ -19,4 +19,4 @@ comments:
 ---
 ![twitter](/files/2009/06/twitter.png)
 
-Follow me [here](<http://twitter.com/tobitobes).>
+Follow me [here](http://twitter.com/tobitobes).

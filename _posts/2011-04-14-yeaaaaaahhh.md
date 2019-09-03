@@ -9,4 +9,4 @@ categories:
 tags: []
 comments: []
 ---
-[vimeo]<http://vimeo.com/22385788[/vimeo]>
+<http://vimeo.com/22385788>

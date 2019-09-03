@@ -13,4 +13,4 @@ comments: []
 
 ZDF war da und hat meine Haartracht eingefangen... LOL!
 
-[<http://www.zdf.de/ZDFmediathek/#/beitrag/video/1508692/Berlin-das-neue-Silicon-Valley](http://www.zdf.de/ZDFmediathek/#/beitrag/video/1508692/Berlin-das-neue-Silicon-Valley)>
+[http://www.zdf.de/ZDFmediathek/#/beitrag/video/1508692/Berlin-das-neue-Silicon-Valley](http://www.zdf.de/ZDFmediathek/#/beitrag/video/1508692/Berlin-das-neue-Silicon-Valley)

@@ -8,7 +8,7 @@ categories:
 - Berlin
 tags:
 - berlin
-- "ärzte"
+- ärzte
 - jobs
 - steuer
 comments: []

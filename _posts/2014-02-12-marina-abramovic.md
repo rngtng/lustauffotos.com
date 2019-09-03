@@ -9,11 +9,11 @@ categories:
 tags: []
 comments: []
 ---
-Wow, gerade &nbsp;[Marina Abramovic Film](http://www.imdb.com/title/tt2073029/?ref_=fn_al_tt_4) gesehen und dann bissl sie gestalked :)
+Wow, gerade [Marina Abramovic Film](http://www.imdb.com/title/tt2073029/?ref_=fn_al_tt_4) gesehen und dann bissl sie gestalked :)
 
-Highlight ist das [Onlinegame](<http://www.pippinbarr.com/games/theartistispresent/TheArtistIsPresent.html),> habs sogar durch gespielt:
+Highlight ist das [Onlinegame](http://www.pippinbarr.com/games/theartistispresent/TheArtistIsPresent.html), habs sogar durch gespielt:
 
-[vimeo]<https://vimeo.com/83378824[/vimeo]>
+<https://vimeo.com/83378824>
 
 Auch Interessant
 

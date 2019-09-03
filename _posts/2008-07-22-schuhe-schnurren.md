@@ -28,8 +28,8 @@ comments:
   author_url: ''
   date: '2009-01-22 22:00:57 +0000'
   date_gmt: '2009-01-22 21:00:57 +0000'
-  content: schnürren, selbstverschürren.... wei&szlig; bald gar nicht mehr
-    was da ge-, ver- oder eingeschnürt werden soll
+  content: schnürren, selbstverschürren.... wei&szlig; bald gar nicht mehr was da
+    ge-, ver- oder eingeschnürt werden soll
 ---
 Endlich, hier meine lang ersehnte Seite. Fancy Schuhe schnürren, hier steht's wie's geht:
 

@@ -15,12 +15,12 @@ tags:
 ---
 Muss ich mal ausprobieren:
 
-&nbsp;
+ 
 
 [<img class="aligncenter size-full wp-image-323" alt="dyi" src="/files/2014/01/dyi.jpg" width="600" height="510" srcset="/files/2014/01/dyi.jpg 600w, /files/2014/01/dyi-300x255.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" />](/files/2014/01/dyi.jpg)
 
-&nbsp;
+ 
 
-&nbsp;
+ 
 
 Mehr hier: <http://yearinreview.tumblr.com/tagged/diy>

@@ -35,7 +35,8 @@ Dir. glob('_old/_posts/*.html').each do |filename2|
   parsed2 =  FrontMatterParser::Parser.new(:md).call(string)
   content2 = parsed2.content
   content2 = ReverseMarkdown.convert(content2).strip
-  content2 = content2.gsub(/(https?:\/\/[\S]+)/, '<\1>')
+  content2 = content2.gsub(/(^|\s)(https?:\/\/\S+)(\s|$)/, '\1<\2>\3')
+  # content2 = content2.gsub(/\(<(https?:\/\/[^ \]\)\n]+)>\)/, '(\1)')
   # binding.pry  if content2.include?('\_')
   content2 = content2.gsub('\_', '_')
 

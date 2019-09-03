@@ -14,12 +14,6 @@ comments: []
 ---
 Muss ich mal ausprobieren:
 
-&nbsp;
-
 [![dyi](/files/2014/01/dyi.jpg)](/files/2014/01/dyi.jpg)
 
-&nbsp;
-
-&nbsp;
-
-Mehr hier:&nbsp;<http://yearinreview.tumblr.com/tagged/diy>
+Mehr hier: <http://yearinreview.tumblr.com/tagged/diy>

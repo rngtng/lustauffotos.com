@@ -13,6 +13,6 @@ Wow, gerade  [Marina Abramovic Film](http://www.imdb.com/title/tt2073029/?ref_=
 
 Highlight ist das [Onlinegame](http://www.pippinbarr.com/games/theartistispresent/TheArtistIsPresent.html), habs sogar durch gespielt:
 
-[vimeo]<https://vimeo.com/83378824[/vimeo]>
+<https://vimeo.com/83378824>
 
 Auch Interessant

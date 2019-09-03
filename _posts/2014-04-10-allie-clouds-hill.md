@@ -10,7 +10,7 @@ categories:
 tags: []
 comments: []
 ---
-Ui mein neuster Ohrwurm - &nbsp;Allie aus Berlin. Schicket Ding, anhören. Uncanny Valley:
+Ui mein neuster Ohrwurm - Allie aus Berlin. Schicket Ding, anhören. Uncanny Valley:
 
 <https://vimeo.com/60081384>
 
@@ -18,8 +18,6 @@ und ein Interview:
 
 <https://www.youtube.com/watch?v=xuF0HHfb_Tg>
 
-&nbsp;
+alles auf [http://www.alliemusic.bandcamp.com](http://www.alliemusic.bandcamp.com/ "http://www.alliemusic.bandcamp.com/")
 
-alles auf&nbsp;[<http://www.alliemusic.bandcamp.com](http://www.alliemusic.bandcamp.com/> "<http://www.alliemusic.bandcamp.com/")>
-
-ah un mehr ä accustic Wednesday clips hier:&nbsp;<https://www.youtube.com/user/AENEUKOELLN>
+ah un mehr ä accustic Wednesday clips hier: <https://www.youtube.com/user/AENEUKOELLN>

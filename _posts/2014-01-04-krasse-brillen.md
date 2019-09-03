@@ -12,6 +12,6 @@ comments: []
 ---
 ![](http://www.owloptics.com/images/article/3/7/eins_palisander_glasses_f2.jpg)
 
-Wow, schicke Brillen bei OWL:&nbsp;<http://www.owloptics.com/en>
+Wow, schicke Brillen bei OWL: <http://www.owloptics.com/en>
 
-Ich hab meine aktuelle ' L.G.R. Suez' bei [Brillenschneiderei](<http://www.brillenschneiderei.de/)&nbsp;in> Berlin gekauft.
+Ich hab meine aktuelle ' L.G.R. Suez' bei [Brillenschneiderei](http://www.brillenschneiderei.de/) in Berlin gekauft.

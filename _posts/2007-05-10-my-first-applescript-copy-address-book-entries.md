@@ -10,4 +10,4 @@ tags: []
 comments: []
 ---
 This article moved to my techblog RngTng.com:  
-[<http://www.rngtng.com/2007/05/10/my-first-applescript-copy-address-book-entries/](http://www.rngtng.com/2007/05/10/my-first-applescript-copy-address-book-entries/)>
+[http://www.rngtng.com/2007/05/10/my-first-applescript-copy-address-book-entries/](http://www.rngtng.com/2007/05/10/my-first-applescript-copy-address-book-entries/)

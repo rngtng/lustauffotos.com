@@ -12,4 +12,4 @@ comments: []
 ---
 ![Deutschland aus Berliner Sicht](http://twitpic.com/show/full/6hotmw.png)
 
-[via [frankwettert](<https://twitter.com/frankwettert/status/111687237963489280)]>
+[via [frankwettert](https://twitter.com/frankwettert/status/111687237963489280)]

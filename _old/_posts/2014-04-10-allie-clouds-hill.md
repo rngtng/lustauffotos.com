@@ -18,7 +18,7 @@ und ein Interview:
 
 
 
-&nbsp;
+ 
 
 alles auf <a dir="ltr" title="http://www.alliemusic.bandcamp.com/" href="http://www.alliemusic.bandcamp.com/" target="_blank" rel="nofollow">http://www.alliemusic.bandcamp.com</a>
 

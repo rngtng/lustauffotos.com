@@ -29,6 +29,6 @@ comments:
   date_gmt: '2011-05-16 09:15:37 +0000'
   content: klar!
 ---
-Haha, gerade sehr alte und qualitativ leider&nbsp;eher schlechte Aufnahmen meines first-and-only Band Projekts **Funkyard** gefunden. Viel Spaß beim anhören, garantiere für nix :-)
+Haha, gerade sehr alte und qualitativ leider eher schlechte Aufnahmen meines first-and-only Band Projekts **Funkyard** gefunden. Viel Spaß beim anhören, garantiere für nix :-)
 
 <https://soundcloud.com/hopit/sets/funkyard-the-missing-releases>

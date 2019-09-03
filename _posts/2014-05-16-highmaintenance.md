@@ -12,10 +12,6 @@ comments: []
 ---
 <https://vimeo.com/channels/highmaintenance/64447342>
 
-&nbsp;
-
-Get'em all!&nbsp;<http://www.helpingyoumaintain.com>
-
-&nbsp;
+Get'em all! <http://www.helpingyoumaintain.com>
 
 {via Alx}

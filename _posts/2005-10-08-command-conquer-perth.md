@@ -61,7 +61,7 @@ Kennt ihr noch das gute alte Computerspiel Command & Conquer?
 
 _"Sie sind so eben in Perth/Australia gelandet. Errichten Sie ein Lager sowie Infrastruktur fuer die naechsten 4 Monate. Backpackers wurden in Downtown gesichtet, freie Zimmer im Westen. Rechnen Sie mit Verstaerkung fruehstens am 10.10 um 10:00 Uhr in der UWA. Viel Glueck!"_
 
-So kam ich mir ungefaehr vor, als ich endlich nach 21 Stunden Reise in Perth gelandet bin. Mitten in der Nacht. Überraschend kalt war es, war es doch in Bangkog ueber 30° C. Hatte aber meine Fleecejacke dabei!  
+So kam ich mir ungefaehr vor, als ich endlich nach 21 Stunden Reise in Perth gelandet bin. Mitten in der Nacht. überraschend kalt war es, war es doch in Bangkog ueber 30° C. Hatte aber meine Fleecejacke dabei!  
 Beim Flug von Bankog nach Perth sass ein netter Mann aus Thailand neber mir. Er ist mit seiner Family on Vacation.  
 Wir haben uns sehr gut verstanden, und so konnte ich mit ihm nach Downtown fahren um dort in einem Backpacker Hostel die restlichen 5 Stunden bis zum Morgen zu uebernachten.
 

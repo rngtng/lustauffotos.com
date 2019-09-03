@@ -19,8 +19,8 @@ comments:
   author_url: ''
   date: '2009-12-19 13:14:16 +0000'
   date_gmt: '2009-12-19 12:14:16 +0000'
-  content: Liebe Vorweihnachtsgrü&szlig;e einer stolzen BC50 Besitzerin; morgen
-    fahre ich wieder mit dem Zuch quer durchs Land ;-)
+  content: Liebe Vorweihnachtsgrü&szlig;e einer stolzen BC50 Besitzerin; morgen fahre
+    ich wieder mit dem Zuch quer durchs Land ;-)
 ---
 ![](http://mein-deal.com/wp-content/uploads/2009/09/abloadgmga.jpg)
 
