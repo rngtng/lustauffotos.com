@@ -15,4 +15,4 @@ tags:
 
 Wow, schicke Brillen bei OWL: <http://www.owloptics.com/en>
 
-Ich hab meine aktuelle &#8218; L.G.R. Suez&#8216; bei [Brillenschneiderei](http://www.brillenschneiderei.de/){.broken_link} in Berlin gekauft.
+Ich hab meine aktuelle ' L.G.R. Suez' bei [Brillenschneiderei](http://www.brillenschneiderei.de/){.broken_link} in Berlin gekauft.

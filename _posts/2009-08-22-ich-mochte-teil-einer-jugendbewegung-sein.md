@@ -1,6 +1,6 @@
 ---
 id: 68
-title: 'Ich möchte Teil einer Jugendbewegung sein&#8230;'
+title: 'Ich möchte Teil einer Jugendbewegung sein...'
 date: 2009-08-22T14:05:24+01:00
 author: admin
 layout: post
@@ -13,8 +13,8 @@ tags:
   - pirat
   - politik
 ---
-[youtube]<http://www.youtube.com/watch?v=7pYOZTiW3UY[/youtube]>
+<http://www.youtube.com/watch?v=7pYOZTiW3UY>
 
-&#8230; unb bin jetzt Pirat!
+... unb bin jetzt Pirat!
 
-[youtube]<http://www.youtube.com/watch?v=3Ixl68QAhGw[/youtube]>
+<http://www.youtube.com/watch?v=3Ixl68QAhGw>

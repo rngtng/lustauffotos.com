@@ -12,6 +12,6 @@ tags:
   - cajon
   - lernen
 ---
-[youtube]<http://www.youtube.com/watch?v=If9FsXI7DRE[/youtube]>
+<http://www.youtube.com/watch?v=If9FsXI7DRE>
 
 <http://www.youtube.com/user/connyverano07>

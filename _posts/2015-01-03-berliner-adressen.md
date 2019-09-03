@@ -47,4 +47,4 @@ Hier eine Liste von Adressen die mir in irgendeiner Form mal empfohlen wurden:
 
   * <http://other-nature.de/>
 
-tbc&#8230;.
+tbc....

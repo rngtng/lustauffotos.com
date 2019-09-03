@@ -1,6 +1,6 @@
 ---
 id: 604
-title: 'Snarky Puppy &#8211; Shofukan (We Like It Here)'
+title: 'Snarky Puppy - Shofukan (We Like It Here)'
 date: 2015-10-19T16:15:43+01:00
 author: admin
 layout: post

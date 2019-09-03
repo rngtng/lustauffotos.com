@@ -12,7 +12,7 @@ categories:
 Kennt ihr noch das gute alte Computerspiel Command & Conquer?
 
 <div align="center">
-  <em>&#8222;Sie sind so eben in Perth/Australia gelandet. Errichten Sie ein Lager sowie Infrastruktur fuer die naechsten 4 Monate. Backpackers wurden in Downtown gesichtet, freie Zimmer im Westen. Rechnen Sie mit Verstaerkung fruehstens am 10.10 um 10:00 Uhr in der UWA. Viel Glueck!&#8220;</em>
+  <em>"Sie sind so eben in Perth/Australia gelandet. Errichten Sie ein Lager sowie Infrastruktur fuer die naechsten 4 Monate. Backpackers wurden in Downtown gesichtet, freie Zimmer im Westen. Rechnen Sie mit Verstaerkung fruehstens am 10.10 um 10:00 Uhr in der UWA. Viel Glueck!"</em>
 </div>
 
 So kam ich mir ungefaehr vor, als ich endlich nach 21 Stunden Reise in Perth gelandet bin. Mitten in der Nacht. Überraschend kalt war es, war es doch in Bangkog ueber 30° C. Hatte aber meine Fleecejacke dabei!  
@@ -20,7 +20,7 @@ Beim Flug von Bankog nach Perth sass ein netter Mann aus Thailand neber mir. Er 
 Wir haben uns sehr gut verstanden, und so konnte ich mit ihm nach Downtown fahren um dort in einem Backpacker Hostel die restlichen 5 Stunden bis zum Morgen zu uebernachten.
 
 So, und dann gings los:  
-ohne fruehstueck keine Motivation, ohne Motivation kein Fahrrad, ohne Fahrrad kein Zimmer, ohne Zimmer kein Bett, Handy, Internet&#8230; uahh!
+ohne fruehstueck keine Motivation, ohne Motivation kein Fahrrad, ohne Fahrrad kein Zimmer, ohne Zimmer kein Bett, Handy, Internet... uahh!
 
 Aber es hat dann dank meiner Command & Conquer Faehigkeiten (da soll noch einer was gegen Computerspiele sagen 🙂 recht gut geklappt. Gegen Abend hatte ich Fahrrad gekauft, Fish & Chips gegessen und ein Zimmer aufgetrieben. Leider ein kleines Problem: das Zimmer hat keine Moebel! Eine einfache Matratze konnte ich noch besorgen, so dass ich erstmal dableibe und mir Moebel oder doch ein anderes moebiliertes Zimmer suche.
 

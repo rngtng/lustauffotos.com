@@ -1,6 +1,6 @@
 ---
 id: 543
-title: 'Whiplash &#8211; Anschauen!'
+title: 'Whiplash - Anschauen!'
 date: 2015-03-15T14:29:11+01:00
 author: admin
 layout: post

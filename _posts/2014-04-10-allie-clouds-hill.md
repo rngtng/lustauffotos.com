@@ -1,6 +1,6 @@
 ---
 id: 405
-title: 'Allie &#8211; Clouds Hill'
+title: 'Allie - Clouds Hill'
 date: 2014-04-10T19:55:07+01:00
 author: admin
 layout: post
@@ -10,7 +10,7 @@ categories:
   - Berlin
   - Music
 ---
-Ui mein neuster Ohrwurm &#8211;  Allie aus Berlin. Schicket Ding, anhören. Uncanny Valley:
+Ui mein neuster Ohrwurm -  Allie aus Berlin. Schicket Ding, anhören. Uncanny Valley:
 
 
 

@@ -1,6 +1,6 @@
 ---
 id: 249
-title: 'Schuhe Schuhe Schuhe&#8230;'
+title: 'Schuhe Schuhe Schuhe...'
 date: 2013-02-02T14:53:05+01:00
 author: admin
 layout: post

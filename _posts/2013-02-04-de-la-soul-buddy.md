@@ -1,6 +1,6 @@
 ---
 id: 259
-title: 'De La Soul &#8211; &#8222;Buddy&#8220;'
+title: 'De La Soul - "Buddy"'
 date: 2013-02-04T13:18:27+01:00
 author: admin
 layout: post

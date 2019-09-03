@@ -9,7 +9,7 @@ permalink: /2013/wintergatan/
 categories:
   - Music
 ---
-[youtube]<http://www.youtube.com/watch?v=SBK2AF-NdVA[/youtube]>  
+<http://www.youtube.com/watch?v=SBK2AF-NdVA>  
 Hammer!
 
 <http://www.wintergatan.net/video>

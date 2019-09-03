@@ -1,6 +1,6 @@
 ---
 id: 100
-title: 'Umgezogen&#8230;'
+title: 'Umgezogen...'
 date: 2010-12-19T23:00:15+01:00
 author: admin
 layout: post

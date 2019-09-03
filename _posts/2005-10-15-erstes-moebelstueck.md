@@ -9,11 +9,11 @@ permalink: /2005/erstes-moebelstueck/
 categories:
   - Australia
 ---
-War gestern im Baummarkt und habe mein erstes, unverzeihliches &#8218;Moebelstueck&#8216; gekauft:
+War gestern im Baummarkt und habe mein erstes, unverzeihliches 'Moebelstueck' gekauft:
 
 <div style="text-align: center">
   <img width="82" height="96" alt="campingchair" src="/files/2006/11/campchair.jpg" />
 </div>
 
 Ein waschechter Campingstuhl fuer sage und schreibe 7.50$ also ca. 4,50 EUR. So, jetzt kann die BBQ season beginnen.  
-Ach, habe auch noch ein paar Fotos von meinem Zimmer, Haus und Garten in die Gallery gestellt&#8230;
+Ach, habe auch noch ein paar Fotos von meinem Zimmer, Haus und Garten in die Gallery gestellt...

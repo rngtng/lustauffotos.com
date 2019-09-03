@@ -9,6 +9,6 @@ permalink: /2006/swing-workshop-in-darmstadt/
 categories:
   - Nonsense
 ---
-Hey! Es wird wieder geswingt! Vom 19. &#8211; 21. Januar 2007 findet in Darmstadt die 3. Runde des SwingMe Workshops statt. Diesemal noch größeres Angebot, inklusive West Coast Swing! Yeah! Wer kommt mit?
+Hey! Es wird wieder geswingt! Vom 19. - 21. Januar 2007 findet in Darmstadt die 3. Runde des SwingMe Workshops statt. Diesemal noch größeres Angebot, inklusive West Coast Swing! Yeah! Wer kommt mit?
 
 <http://www.swingme.net/DSW3/ENGDSW3main.htm>

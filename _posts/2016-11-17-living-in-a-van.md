@@ -11,7 +11,7 @@ categories:
 ---
 <blockquote class="wp-embedded-content" data-secret="7JspLjcB7Z">
   <p>
-    <a href="https://vanlife.tv/vanlife-a-lighthearted-film-about-living-in-a-van/">#vanlife &#8211; a lighthearted film about living in a van!</a>
+    <a href="https://vanlife.tv/vanlife-a-lighthearted-film-about-living-in-a-van/">#vanlife - a lighthearted film about living in a van!</a>
   </p>
 </blockquote>
 

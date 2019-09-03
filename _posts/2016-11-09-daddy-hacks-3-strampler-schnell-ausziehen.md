@@ -1,6 +1,6 @@
 ---
 id: 618
-title: 'Daddy Hacks #3 &#8211; Strampler schnell ausziehen'
+title: 'Daddy Hacks #3 - Strampler schnell ausziehen'
 date: 2016-11-09T12:38:27+01:00
 author: admin
 layout: post

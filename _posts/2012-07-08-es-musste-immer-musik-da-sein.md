@@ -11,5 +11,5 @@ categories:
 tags:
   - Absolute Giganten
 ---
-It&#8217;s a bit cheesy but I like it:  
-[youtube]<http://www.youtube.com/watch?v=HL6HE3zOt-0[/youtube]>
+It's a bit cheesy but I like it:  
+<http://www.youtube.com/watch?v=HL6HE3zOt-0>

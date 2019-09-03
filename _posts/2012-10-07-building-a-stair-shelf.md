@@ -1,6 +1,6 @@
 ---
 id: 227
-title: 'Building a Stair Shelf&#8230;'
+title: 'Building a Stair Shelf...'
 date: 2012-10-07T19:35:09+01:00
 author: tobi
 layout: post

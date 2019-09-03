@@ -9,7 +9,7 @@ permalink: /2006/rottnest-island/
 categories:
   - Australia
 ---
-<img width="235" height="155" hspace="7" border="1" align="left" alt="Rottnest Island" src="/files/2006/11/estudar-perth-rottnest.jpg" />Last weekend I went with some friends from the Outdoorclub to &#8222;Rotto&#8220;, a Island about 15km west of perth. The east side of the island is quite touristic, lots of holiday guests, restaurants and people. But the west side is nearly empty, lots of nature, dunes and nice beaches.  
+<img width="235" height="155" hspace="7" border="1" align="left" alt="Rottnest Island" src="/files/2006/11/estudar-perth-rottnest.jpg" />Last weekend I went with some friends from the Outdoorclub to "Rotto", a Island about 15km west of perth. The east side of the island is quite touristic, lots of holiday guests, restaurants and people. But the west side is nearly empty, lots of nature, dunes and nice beaches.  
 As the island is only 11km long we took our bikes and for exploring. Weather was great, so we hanged arround the beaches and went snorkeling in the blue water. Check out the pics in the gallery! Here
 
 More on this:  

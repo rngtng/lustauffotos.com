@@ -1,6 +1,6 @@
 ---
 id: 596
-title: 'Burial / Four Tet — &#8222;Moth&#8220;'
+title: 'Burial / Four Tet — "Moth"'
 date: 2015-09-29T15:52:23+01:00
 author: admin
 layout: post

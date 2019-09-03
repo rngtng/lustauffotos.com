@@ -12,6 +12,6 @@ tags:
   - kaffee
   - kult
 ---
-[youtube]<http://www.youtube.com/watch?v=lAUIHBAxbXY[/youtube]>
+<http://www.youtube.com/watch?v=lAUIHBAxbXY>
 
 hach, classic!

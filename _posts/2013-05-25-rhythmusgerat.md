@@ -11,4 +11,4 @@ categories:
 tags:
   - badesalz
 ---
-[youtube]<http://www.youtube.com/watch?v=NPJfnE5bO1Y[/youtube]>
+<http://www.youtube.com/watch?v=NPJfnE5bO1Y>

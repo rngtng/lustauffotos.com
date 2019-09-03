@@ -18,4 +18,4 @@ Autorfahrer sitz rechts. Bloed, dass ich immer auf dieser Seite einsteigen will!
 Fussgaenger werden auch Rechts ueberholt. Dumm, dass ich aber Links ueberholen wo alle vor Schreck hinspringen.  
 Das geht ja noch weiter: Selbst auf Rolltreppen wird Links gestanden und Rechts gelaufen! tztzt..
 
-P.S: &#8218;Rechts vor Links&#8216; gilt aber weiterhin, ausser bei T-Kreuzungen, da hat die durchgegehende Strasse (immer) Vorfahrt.
+P.S: 'Rechts vor Links' gilt aber weiterhin, ausser bei T-Kreuzungen, da hat die durchgegehende Strasse (immer) Vorfahrt.

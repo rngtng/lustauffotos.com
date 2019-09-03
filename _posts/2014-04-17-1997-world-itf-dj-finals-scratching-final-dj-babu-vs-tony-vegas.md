@@ -1,6 +1,6 @@
 ---
 id: 412
-title: '1997 World ITF DJ Finals &#8211; Scratching Final &#8211; DJ Babu vs Tony Vegas'
+title: '1997 World ITF DJ Finals - Scratching Final - DJ Babu vs Tony Vegas'
 date: 2014-04-17T16:21:46+01:00
 author: admin
 layout: post

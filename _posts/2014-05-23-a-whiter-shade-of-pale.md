@@ -11,7 +11,7 @@ categories:
 tags:
   - cafe
 ---
-Sitz ich hier im Kaffee und hör doch &#8217;ne Cover von Helges Söngchen &#8218;A Whiter Shade Of Pale&#8216;. War aber bei weitem nicht so gut wie das Original:
+Sitz ich hier im Kaffee und hör doch 'ne Cover von Helges Söngchen 'A Whiter Shade Of Pale'. War aber bei weitem nicht so gut wie das Original:
 
 
 

@@ -15,10 +15,10 @@ Das hab ich ausm Urlaub mitgebracht:
 
 Essen: Raki, suflaki, musaka, Kebap sanassis
 
-Efharisto &#8211; danke  
-Parakalo &#8211; bitte, gern geschehen  
-Ya su &#8211; hallo  
-Kalimera &#8211; guten morgen  
-Kaliniaschta &#8211; night  
-Ne &#8211; yes  
-Ohji &#8211; no
+Efharisto - danke  
+Parakalo - bitte, gern geschehen  
+Ya su - hallo  
+Kalimera - guten morgen  
+Kaliniaschta - night  
+Ne - yes  
+Ohji - no

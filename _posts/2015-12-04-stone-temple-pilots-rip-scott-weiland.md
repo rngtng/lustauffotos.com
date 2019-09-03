@@ -1,6 +1,6 @@
 ---
 id: 626
-title: 'Stone Temple Pilots &#8211; RIP Scott Weiland'
+title: 'Stone Temple Pilots - RIP Scott Weiland'
 date: 2015-12-04T12:31:15+01:00
 author: admin
 layout: post

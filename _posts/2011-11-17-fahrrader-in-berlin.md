@@ -1,6 +1,6 @@
 ---
 id: 164
-title: 'Fahrräder in Berlin&#8230;'
+title: 'Fahrräder in Berlin...'
 date: 2011-11-17T16:15:59+01:00
 author: admin
 layout: post
@@ -19,17 +19,17 @@ tags:
 
 <http://www.berliner-fahrradlaeden.de/portal_a.html>
 
-Rad Spannerei &#8211; <http://www.rad-spannerei.de>
+Rad Spannerei - <http://www.rad-spannerei.de>
 
-Raederwerk &#8211; <http://www.raederwerk.de>  
-Rad Kreuz &#8211; <http://www.rad-kreuz.de>  
-Ostrad &#8211; <http://www.ostrad.de>  
-Velophil &#8211; <http://www.velophil.de>  
-Velomonde &#8211; <http://www.velomondo.de>  
-Fahrrad Stadler &#8211; <http://www.zweirad-stadler.com>  
-Fahrrad Konsum &#8211; ??  
-Knast Fahrrad &#8211; <http://www.stattknast.de/index.php?id=21,33,0,0,1,0>  
-Fietswinkel, Neukölln &#8211; <http://vimeo.com/22103603>
+Raederwerk - <http://www.raederwerk.de>  
+Rad Kreuz - <http://www.rad-kreuz.de>  
+Ostrad - <http://www.ostrad.de>  
+Velophil - <http://www.velophil.de>  
+Velomonde - <http://www.velomondo.de>  
+Fahrrad Stadler - <http://www.zweirad-stadler.com>  
+Fahrrad Konsum - ??  
+Knast Fahrrad - <http://www.stattknast.de/index.php?id=21,33,0,0,1,0>  
+Fietswinkel, Neukölln - <http://vimeo.com/22103603>
 
 [http://www.fahrradmarkt-berlin.de/termine\_gebrauchtes\_fahrrad_berlin.html](http://www.fahrradmarkt-berlin.de/termine_gebrauchtes_fahrrad_berlin.html)
 

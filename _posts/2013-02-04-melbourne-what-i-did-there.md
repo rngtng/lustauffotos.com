@@ -1,6 +1,6 @@
 ---
 id: 258
-title: 'Melbourne &#8211; what I did there..'
+title: 'Melbourne - what I did there..'
 date: 2013-02-04T13:24:29+01:00
 author: admin
 layout: post
@@ -9,7 +9,7 @@ permalink: /2013/melbourne-what-i-did-there/
 categories:
   - Music
 ---
-Bin gerade frisch zurück aus Down Under und hab schöne &#8218;Kunst&#8216; aus Melbourne mitgebracht:
+Bin gerade frisch zurück aus Down Under und hab schöne 'Kunst' aus Melbourne mitgebracht:
 
 ACMI Matrix Style:  
 

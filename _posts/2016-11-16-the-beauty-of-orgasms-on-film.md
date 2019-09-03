@@ -11,4 +11,4 @@ categories:
 ---
 wow: <http://www.iheartberlin.de/2013/05/28/the-beauty-of-orgasms-on-film/>
 
-und dann das noch: Face to Panty Ratio &#8211; <https://vimeo.com/23739500>
+und dann das noch: Face to Panty Ratio - <https://vimeo.com/23739500>

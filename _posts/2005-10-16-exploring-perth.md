@@ -9,7 +9,7 @@ permalink: /2005/exploring-perth/
 categories:
   - Australia
 ---
-Today we had beautiful weather, so I went on an cycletour through Perth, especially the Kings Park next by. It&#8217;s the largest Park in the city, mostly austrailian bush, with some BBQ places and beautiful english lawn. I saw a lots of strange plants and animals, even parrots!! On the east side I got a wonderful view over Perth Downdown, Skyline and the Swan river. Watch out the pictures!
+Today we had beautiful weather, so I went on an cycletour through Perth, especially the Kings Park next by. It's the largest Park in the city, mostly austrailian bush, with some BBQ places and beautiful english lawn. I saw a lots of strange plants and animals, even parrots!! On the east side I got a wonderful view over Perth Downdown, Skyline and the Swan river. Watch out the pictures!
 
 <div align="center">
   <img alt="Perth Skyline" src="/files/2006/11/skyline.jpg" />

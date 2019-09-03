@@ -1,6 +1,6 @@
 ---
 id: 612
-title: 'Monolink &#8211; Burning Sun'
+title: 'Monolink - Burning Sun'
 date: 2015-11-28T15:46:08+01:00
 author: admin
 layout: post

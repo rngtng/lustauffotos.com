@@ -29,7 +29,7 @@ Berlin:
 
 <blockquote class="wp-embedded-content" data-secret="sto9Cx4bNX">
   <p>
-    <a href="https://www.tantepolly.de/">Tante Polly &#8211; Flöße und Ferienwohnungen</a>
+    <a href="https://www.tantepolly.de/">Tante Polly - Flöße und Ferienwohnungen</a>
   </p>
 </blockquote>
 

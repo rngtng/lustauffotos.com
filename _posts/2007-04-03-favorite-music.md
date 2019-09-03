@@ -15,6 +15,6 @@ _Atarihuana_ by Jan Delay
 _Days of Twang_ by De Phazz  
 _Radio_ by Jazzmachine  
 _Joyfull_ by Ayo  
-_Don&#8217;t Leave In Such A Hurry_ by Uzi & Ari
+_Don't Leave In Such A Hurry_ by Uzi & Ari
 
 Check it out!

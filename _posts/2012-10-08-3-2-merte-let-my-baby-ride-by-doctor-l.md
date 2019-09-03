@@ -1,6 +1,6 @@
 ---
 id: 232
-title: '3, 2 &#8211; merte! &#8211; &#8222;Let my Baby Ride&#8220; by Doctor L'
+title: '3, 2 - merte! - "Let my Baby Ride" by Doctor L'
 date: 2012-10-08T15:00:59+01:00
 author: tobi
 layout: post
@@ -12,6 +12,6 @@ tags:
   - holy
   - motors
 ---
-[youtube]<http://www.youtube.com/watch?v=7qxG3LzYkfg[/youtube]>
+<http://www.youtube.com/watch?v=7qxG3LzYkfg>
 
-Beste Szene aus &#8218;Holy Motors&#8216; &#8211; nuff said!
+Beste Szene aus 'Holy Motors' - nuff said!

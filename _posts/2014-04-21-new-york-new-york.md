@@ -13,4 +13,4 @@ categories:
 
 Bamm! Ick bin nu in New York! Somit gibts hier bald eine paar Reiseberichte & Fotos. Ansonsten findet ihr mich auch auf [Instagram](http://instagram.com/tobitobes) und [Foursquare](https://foursquare.com/user/131807).
 
-Stay Tuned &#8211; Demnächst mehr!
+Stay Tuned - Demnächst mehr!

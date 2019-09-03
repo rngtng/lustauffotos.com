@@ -17,8 +17,8 @@ tags:
 
 Meine Favs:
 
-&#8211; Südblock (riesen Buffet)  
-&#8211; Fatma & Frieda (schön in der Sonne sitzen)  
-&#8211; Avril (veg. Buffet)
+- Südblock (riesen Buffet)  
+- Fatma & Frieda (schön in der Sonne sitzen)  
+- Avril (veg. Buffet)
 
 Liste hier: <http://mitvergnuegen.com/2015/21-orte-zum-fruehstuecken-in-berlin/>

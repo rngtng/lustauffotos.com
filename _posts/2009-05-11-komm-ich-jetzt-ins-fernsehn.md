@@ -13,6 +13,6 @@ tags:
   - hamburg
 ---
 Ja:  
-[youtube]<http://www.youtube.com/watch?v=9NZBGQsrc2Q[/youtube]>
+<http://www.youtube.com/watch?v=9NZBGQsrc2Q>
 
-_&#8222;Büro, nicht Bürro&#8220;_
+_"Büro, nicht Bürro"_

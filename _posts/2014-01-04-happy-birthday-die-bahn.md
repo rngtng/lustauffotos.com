@@ -1,6 +1,6 @@
 ---
 id: 342
-title: 'Happy Birthday &#8211; die Bahn'
+title: 'Happy Birthday - die Bahn'
 date: 2014-01-04T16:11:33+01:00
 author: admin
 layout: post
@@ -15,6 +15,6 @@ tags:
 
 &nbsp;
 
-Schaut an, die Bahn verschickt Geburtstags Emails. Aber nicht ein normales &#8218;Alles Gute&#8216;, nein, man bekommt schon 3 Tage davor eine Aufforderung seine &#8218;Präferenzen&#8216; zu wählen. Ich hab Farbe &#8218;rot&#8216;, Ort &#8218;Meer&#8216; und Kuchen &#8218;Schoko&#8216; gewählt &#8211; Resultat: ein &#8218;persönlich&#8216; gerenderter ICE mit Meer Hintergrund, orangenem Aufdruck und eine nette Dame mit Schokokuchen. Wow, ich frag mich wieviel Entwickler das gekostet hast 🙂
+Schaut an, die Bahn verschickt Geburtstags Emails. Aber nicht ein normales 'Alles Gute', nein, man bekommt schon 3 Tage davor eine Aufforderung seine 'Präferenzen' zu wählen. Ich hab Farbe 'rot', Ort 'Meer' und Kuchen 'Schoko' gewählt - Resultat: ein 'persönlich' gerenderter ICE mit Meer Hintergrund, orangenem Aufdruck und eine nette Dame mit Schokokuchen. Wow, ich frag mich wieviel Entwickler das gekostet hast 🙂
 
 &nbsp;

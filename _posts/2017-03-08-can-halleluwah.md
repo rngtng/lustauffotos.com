@@ -1,6 +1,6 @@
 ---
 id: 745
-title: 'Can &#8211; Halleluwah'
+title: 'Can - Halleluwah'
 date: 2017-03-08T20:44:05+01:00
 author: admin
 layout: post

@@ -11,7 +11,7 @@ categories:
 tags:
   - comedy
 ---
-[youtube]<https://www.youtube.com/watch?v=JIntFMexCzw[/youtube]>
+<https://www.youtube.com/watch?v=JIntFMexCzw>
 
 <http://joepera.com>
 

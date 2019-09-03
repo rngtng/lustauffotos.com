@@ -13,6 +13,6 @@ tags:
   - grün
   - wohnen
 ---
-von Lena: &#8222;So da haben wir es: der Wohnwagon macht hat alles was man zum Leben braucht und ist nebenbei ganz autark.&#8220; (Video anschauen am Ende des Artikels)
+von Lena: "So da haben wir es: der Wohnwagon macht hat alles was man zum Leben braucht und ist nebenbei ganz autark." (Video anschauen am Ende des Artikels)
 
 <http://green.wiwo.de/energieautark-wohnen-dieses-haus-auf-raedern-machts-moeglich/>

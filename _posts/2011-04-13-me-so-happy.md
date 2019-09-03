@@ -1,6 +1,6 @@
 ---
 id: 115
-title: 'Me so happy&#8230;'
+title: 'Me so happy...'
 date: 2011-04-13T22:57:28+01:00
 author: admin
 layout: post

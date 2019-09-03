@@ -14,4 +14,4 @@ tags:
 ---
 [vimeo]<http://vimeo.com/23237102[/vimeo]>
 
-_Timelapse &#8211; The City Limits_
+_Timelapse - The City Limits_

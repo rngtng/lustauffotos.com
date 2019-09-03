@@ -22,5 +22,5 @@ aber.. PIZZA??? Skandal!!! In den tiefen des Internets ist aber dann doch noch d
 
 [<img class="aligncenter" src="http://26.media.tumblr.com/tumblr_lkqc7unaYU1qzijxbo1_500.png" alt="" />](http://soundcloud.tumblr.com/post/5219820309/developing-initial-situation-picture-was-fake)
 
-oh! &#8230;und hier schon erste fakes:  
+oh! ...und hier schon erste fakes:  
 <img class="aligncenter" src="http://farm6.static.flickr.com/5226/5680724572_d4696d593d_z.jpg" alt="" width="512" height="342" />

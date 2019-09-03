@@ -9,6 +9,6 @@ permalink: /2012/a-game-of-you/
 categories:
   - Nonsense
 ---
-I shouldn&#8217;t have missed:
+I shouldn't have missed:
 
-[youtube]<http://www.youtube.com/watch?v=_U8RovGBpKc[/youtube]>
+<http://www.youtube.com/watch?v=_U8RovGBpKc>

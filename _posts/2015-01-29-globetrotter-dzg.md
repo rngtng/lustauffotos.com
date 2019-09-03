@@ -1,6 +1,6 @@
 ---
 id: 487
-title: 'Globetrotter &#8211; DZG'
+title: 'Globetrotter - DZG'
 date: 2015-01-29T16:28:10+01:00
 author: tobi
 layout: post

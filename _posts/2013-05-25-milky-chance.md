@@ -9,4 +9,4 @@ permalink: /2013/milky-chance/
 categories:
   - Music
 ---
-[soundcloud url=&#8220;http://api.soundcloud.com/playlists/5327751&#8243; params=&#8220;&#8220; width=&#8220; 100%&#8220; height=&#8220;450&#8243; iframe=&#8220;true&#8220; /]
+https://soundcloud.com/milkychance

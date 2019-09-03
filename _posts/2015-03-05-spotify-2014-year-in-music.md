@@ -1,6 +1,6 @@
 ---
 id: 545
-title: 'Spotify &#8211; 2014 year in music'
+title: 'Spotify - 2014 year in music'
 date: 2015-03-05T14:48:31+01:00
 author: admin
 layout: post

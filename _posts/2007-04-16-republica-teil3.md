@@ -13,7 +13,7 @@ Letzter und spannendster Tag:
 
 Ich war dabei:  
 _Datenschutz im Web 2.0_ Was google & co alles speichern, Mit live password sniffer im hintergrund!  
-_Hard Bloggin&#8216; Scientist_  
+_Hard Bloggin' Scientist_  
 _Stadtjournalismus_ Hauptstadtblog Blerin sagt was sache sit und Kaiserslautern war dabei 😉 Sehr cool!  
 _Alles vorbei_Nachtreffen bei newthinking mit Freibier and last socializing possibility!
 

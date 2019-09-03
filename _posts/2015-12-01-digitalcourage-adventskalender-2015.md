@@ -1,6 +1,6 @@
 ---
 id: 656
-title: 'Digitalcourage &#8211; Adventskalender 2015'
+title: 'Digitalcourage - Adventskalender 2015'
 date: 2015-12-01T14:56:40+01:00
 author: admin
 layout: post

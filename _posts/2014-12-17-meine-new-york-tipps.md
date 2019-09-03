@@ -15,28 +15,28 @@ tags:
 ---
 <img class="size-full wp-image-496 aligncenter" src="/files/2014/12/IMG_2411.jpg" alt="IMG_2411" width="500" height="375" srcset="http://www.lustauffotos.com/files/2014/12/IMG_2411.jpg 500w, http://www.lustauffotos.com/files/2014/12/IMG_2411-300x225.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" />
 
-Ich werde in letzter Zeit öfters nach New York Tipp gefragt. Ui da gibt&#8217;s sooo viel zu Empfehlen, out-of-my-head her jedoch das Wichtigste:
+Ich werde in letzter Zeit öfters nach New York Tipp gefragt. Ui da gibt's sooo viel zu Empfehlen, out-of-my-head her jedoch das Wichtigste:
 
 **Essen:**  
-* Ess a Bagel oder Tompkins Square Bagel &#8211; best Bagel in Town  
-* Zaragoza &#8211; lecker mexikanisch <https://foursquare.com/v/zaragoza-mexican-deligrocery-new-york-ny/49e80026f964a52037651fe3>  
-* Tacos Morelos &#8211; <https://foursquare.com/v/tacos-morelos/5209469f11d2d4f85e5b7427>  
-* Smourgasburg &#8211; food market  
-* Xi’an famous &#8211; lecker spicy asia nudeln &#8211; <https://foursquare.com/explore?mode=url&near=new%20york&q=xian%20famous%20foods>  
+* Ess a Bagel oder Tompkins Square Bagel - best Bagel in Town  
+* Zaragoza - lecker mexikanisch <https://foursquare.com/v/zaragoza-mexican-deligrocery-new-york-ny/49e80026f964a52037651fe3>  
+* Tacos Morelos - <https://foursquare.com/v/tacos-morelos/5209469f11d2d4f85e5b7427>  
+* Smourgasburg - food market  
+* Xi’an famous - lecker spicy asia nudeln - <https://foursquare.com/explore?mode=url&near=new%20york&q=xian%20famous%20foods>  
 * Robertas pizza oder Paulie Gee’s  
-* Sunny & Annie &#8211; best sandwich in town! &#8211; <https://foursquare.com/v/sunny&#8211;annie-gourmet-deli/4b41102bf964a52055c025e3>  
-* Brooklyn Label &#8211; sehr lecker veggie burger (laut Matze) &#8211; <https://foursquare.com/v/brooklyn-label/45a0dfe3f964a520d4401fe3>  
-* Jackbar &#8211; lecker Bier und Pinball  
+* Sunny & Annie - best sandwich in town! - <https://foursquare.com/v/sunny-annie-gourmet-deli/4b41102bf964a52055c025e3>  
+* Brooklyn Label - sehr lecker veggie burger (laut Matze) - <https://foursquare.com/v/brooklyn-label/45a0dfe3f964a520d4401fe3>  
+* Jackbar - lecker Bier und Pinball  
 * Taim falafel  
 * lecker essen bei Westville
 
 **Fun:**  
-* Fat Cat &#8211; underground jazz und dabei Tischtennis & co spielen. weird & fun mix  
-* Back room &#8211; montags jazz und drinks aus kaffeetassen  
-* Sleep no More &#8211; Interactive, 3D Theater, teuer aber lohnt sich!!  
-* Top of Rock &#8211; best view, besonders bei Anbruch der Dunkelheit lohnt sich.  
-* Brooklyn Bridge &#8211; classic walk & view  
-* Modern Pinball NYC &#8211; DER!!! pinball schuppen  
+* Fat Cat - underground jazz und dabei Tischtennis & co spielen. weird & fun mix  
+* Back room - montags jazz und drinks aus kaffeetassen  
+* Sleep no More - Interactive, 3D Theater, teuer aber lohnt sich!!  
+* Top of Rock - best view, besonders bei Anbruch der Dunkelheit lohnt sich.  
+* Brooklyn Bridge - classic walk & view  
+* Modern Pinball NYC - DER!!! pinball schuppen  
 * Highline  
 * Grand Central  
 * Central Park  

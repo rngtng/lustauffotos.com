@@ -14,7 +14,7 @@ So, endlich mal ein paar Fotos. Check out the Gallery section!
 Sonst bin ich hier so nach und nach am erkunden der Gegend. Es gibt hier noch  
 den Unisport und Outdoorclub. Habe ich jetzt mal ein paar Kurse belegt. Bin mal gespannt!
 
-Es war echt sehr gut sofort ein Fahrrad zu kaufen. Es gibt hier sehr viele scoene &#8222;Bikelines&#8220;.  
+Es war echt sehr gut sofort ein Fahrrad zu kaufen. Es gibt hier sehr viele scoene "Bikelines".  
 Take a look at my lovley bike:
 
 <div style="text-align: center">

@@ -1,6 +1,6 @@
 ---
 id: 535
-title: 'The Avalanches &#8211; Frontier Psychiatrist'
+title: 'The Avalanches - Frontier Psychiatrist'
 date: 2015-03-10T14:55:36+01:00
 author: tobi
 layout: post

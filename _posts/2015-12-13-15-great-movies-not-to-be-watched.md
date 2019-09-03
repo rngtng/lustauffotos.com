@@ -1,6 +1,6 @@
 ---
 id: 627
-title: '15 great movies not to be watched&#8230;.'
+title: '15 great movies not to be watched....'
 date: 2015-12-13T13:24:31+01:00
 author: admin
 layout: post

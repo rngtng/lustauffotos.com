@@ -23,4 +23,4 @@ Sehr schöner Photo/Stadt/Blog für unser geliebtes Berlin:
 
 
 
-&#8230; gehört auch irgendwie dazu: <http://lostplacesberlin.com/>
+... gehört auch irgendwie dazu: <http://lostplacesberlin.com/>

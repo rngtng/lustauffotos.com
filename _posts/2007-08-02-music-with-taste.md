@@ -9,6 +9,6 @@ permalink: /2007/music-with-taste/
 categories:
   - Nonsense
 ---
-Do you know Soul Coughing -> <http://en.wikipedia.org/wiki/Soul_Coughing> &#8211; Damn great!
+Do you know Soul Coughing -> <http://en.wikipedia.org/wiki/Soul_Coughing> - Damn great!
 
-And (!) now I know what my music taste is called: &#8218;Big Beat&#8216; <http://en.wikipedia.org/wiki/Big_beat> &#8211; good to know! 😉
+And (!) now I know what my music taste is called: 'Big Beat' <http://en.wikipedia.org/wiki/Big_beat> - good to know! 😉

@@ -1,6 +1,6 @@
 ---
 id: 357
-title: 'Seife aus Berlin &#8211; MaiSoap'
+title: 'Seife aus Berlin - MaiSoap'
 date: 2014-01-11T13:45:15+01:00
 author: admin
 layout: post

@@ -14,6 +14,6 @@ tags:
   - schnürren
   - schuh
 ---
-Endlich, hier meine lang ersehnte Seite. Fancy Schuhe schnürren, hier steht&#8217;s wie&#8217;s geht:
+Endlich, hier meine lang ersehnte Seite. Fancy Schuhe schnürren, hier steht's wie's geht:
 
 <http://www.shoe-lacing.com/shoelace/index.htm>

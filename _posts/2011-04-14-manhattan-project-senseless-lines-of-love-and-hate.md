@@ -13,4 +13,5 @@ tags:
   - mp
   - music
 ---
-Good old times &#8211; may they RIP in the Cloud:
+Good old times - may they RIP in the Cloud:
+https://soundcloud.com/bjeurope/sets/manhattan-project-senseless

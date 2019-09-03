@@ -10,4 +10,4 @@ categories:
   - Nonsense
 ---
 I Made It!  
-Yesterday was sport day at uni. So I attended cross country running! For the first time I took on the 10km route which I finished in 56:22 min. Yeah! I&#8217;m still alive and had lots of fun!
+Yesterday was sport day at uni. So I attended cross country running! For the first time I took on the 10km route which I finished in 56:22 min. Yeah! I'm still alive and had lots of fun!

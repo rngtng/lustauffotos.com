@@ -1,6 +1,6 @@
 ---
 id: 662
-title: 'Wintergatan &#8211; Marble Machine'
+title: 'Wintergatan - Marble Machine'
 date: 2016-10-31T11:12:10+01:00
 author: admin
 layout: post

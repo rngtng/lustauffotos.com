@@ -12,7 +12,7 @@ categories:
 ---
 &nbsp;
 
-Get&#8217;em all! <http://www.helpingyoumaintain.com>
+Get'em all! <http://www.helpingyoumaintain.com>
 
 &nbsp;
 

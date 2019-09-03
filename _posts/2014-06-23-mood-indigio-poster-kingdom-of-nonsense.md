@@ -1,6 +1,6 @@
 ---
 id: 447
-title: 'Mood Indigio Poster &#8211; Kingdom of Nonsense'
+title: 'Mood Indigio Poster - Kingdom of Nonsense'
 date: 2014-06-23T10:41:15+01:00
 author: admin
 layout: post
@@ -15,4 +15,4 @@ tags:
 
 Wow great by Poster Jay Shaw. More: <http://www.kingdomofnonsense.com>
 
-P.s. Mood Indigio ist übrigens ein sehr bezaubernder Film, am besten zu geniessen bei einem Bier und M&M &#8211; dann passiert unglaubliches.
+P.s. Mood Indigio ist übrigens ein sehr bezaubernder Film, am besten zu geniessen bei einem Bier und M&M - dann passiert unglaubliches.

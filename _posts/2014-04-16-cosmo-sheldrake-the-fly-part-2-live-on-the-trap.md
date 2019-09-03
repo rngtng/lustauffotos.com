@@ -1,6 +1,6 @@
 ---
 id: 409
-title: 'Cosmo Sheldrake &#8218;The Fly Part 2&#8216; live on the trap'
+title: 'Cosmo Sheldrake 'The Fly Part 2' live on the trap'
 date: 2014-04-16T15:32:32+01:00
 author: admin
 layout: post

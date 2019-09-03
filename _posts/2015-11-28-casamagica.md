@@ -12,4 +12,4 @@ tags:
   - art
   - krasses zeusch
 ---
-Mein Mitbewohner&#8217;s Onkel: <http://www.casamagica.de>
+Mein Mitbewohner's Onkel: <http://www.casamagica.de>

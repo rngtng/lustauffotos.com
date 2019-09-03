@@ -1,6 +1,6 @@
 ---
 id: 548
-title: 'Kalifornien Trip &#8211; Auto/Van Miet Tipps'
+title: 'Kalifornien Trip - Auto/Van Miet Tipps'
 date: 2015-04-07T09:54:12+01:00
 author: admin
 layout: post
@@ -42,7 +42,7 @@ keine Polizei kommt war stressig.
   * <http://silverashcampers.com>
   * <http://coloradocamperrental.com>
 
-The big agencies, El Monte RV and Cruise America, probably don&#8217;t have anything as small as a VW van
+The big agencies, El Monte RV and Cruise America, probably don't have anything as small as a VW van
 
 **General Info:**
 
@@ -59,6 +59,6 @@ The big agencies, El Monte RV and Cruise America, probably don&#8217;t have anyt
   * <http://www.tours4fun.com/west-coast-tours>
   * <http://www.reidsguides.com>
 
-Also on the Coast is beautiful. Up North to Mendocino, Sonoma, Napa (wine country), or South: Big Sur, Carmel, Monterey, Santa Cruz, Capitola, Santa Barbara, Malibu&#8230;..and many others North or South.
+Also on the Coast is beautiful. Up North to Mendocino, Sonoma, Napa (wine country), or South: Big Sur, Carmel, Monterey, Santa Cruz, Capitola, Santa Barbara, Malibu.....and many others North or South.
 
 Fahrräder hatten wir recht günstig über spinlister.com ausgeliehen.

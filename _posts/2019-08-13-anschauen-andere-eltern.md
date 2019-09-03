@@ -11,6 +11,6 @@ categories:
 ---
 Andere Eltern: <https://andere-eltern.de/>
 
-auch gut: &#8218;Endlich Deutsch:&#8216; <https://vimeo.com/111214169>
+auch gut: 'Endlich Deutsch:' <https://vimeo.com/111214169>
 
 Mehr: <http://eitelsonnenschein.de/>

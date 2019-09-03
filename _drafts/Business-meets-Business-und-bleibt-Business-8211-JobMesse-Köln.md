@@ -1,6 +1,6 @@
 ---
 id: 7
-title: 'Business meets Business und bleibt Business &#8211; JobMesse Köln'
+title: 'Business meets Business und bleibt Business - JobMesse Köln'
 date: 2008-12-06T00:01:43+01:00
 author: tobi
 layout: post

@@ -12,6 +12,6 @@ tags:
   - belrin
   - techno
 ---
-[youtube]<http://www.youtube.com/watch?v=VudJpH-ytH4[/youtube]>
+<http://www.youtube.com/watch?v=VudJpH-ytH4>
 
 <3 <3 <3 Berlin <3 <3 <3

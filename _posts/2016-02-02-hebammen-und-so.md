@@ -1,6 +1,6 @@
 ---
 id: 635
-title: 'Hebammen und so&#8230;'
+title: 'Hebammen und so...'
 date: 2016-02-02T12:30:30+01:00
 author: admin
 layout: post

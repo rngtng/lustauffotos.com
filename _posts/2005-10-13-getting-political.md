@@ -9,9 +9,9 @@ permalink: /2005/getting-political/
 categories:
   - Nonsense
 ---
-I just watched &#8222;Newshour&#8220; on TV. They talked about the german election. Here some &#8217;nice&#8216; quotes:
+I just watched "Newshour" on TV. They talked about the german election. Here some 'nice' quotes:
 
-_&#8222;&#8230;Merkel is product of the east!&#8220;  
-&#8222;&#8230;Merkel swept away her party instead of cleaning up&#8230;&#8220;  
-&#8222;&#8230;she is &#8217;nothing&#8216; compared to Magreth Flechter&#8230;&#8220;  
-&#8222;&#8230;no difference in policy expected&#8230;&#8220;_
+_"...Merkel is product of the east!"  
+"...Merkel swept away her party instead of cleaning up..."  
+"...she is 'nothing' compared to Magreth Flechter..."  
+"...no difference in policy expected..."_

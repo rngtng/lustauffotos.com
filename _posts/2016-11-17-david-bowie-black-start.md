@@ -1,6 +1,6 @@
 ---
 id: 710
-title: 'David Bowie &#8211; Black Start'
+title: 'David Bowie - Black Start'
 date: 2016-11-17T11:54:01+01:00
 author: admin
 layout: post

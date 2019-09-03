@@ -12,13 +12,13 @@ tags:
   - deutsch
   - film
 ---
-Hier &#8217;ne Lister meiner Favorite-German-Movies:
+Hier 'ne Lister meiner Favorite-German-Movies:
 
 Absolute Giganten  
 Sonnenallee  
 Bandits  
 Wer früher stribt ist länger Tot  
-23 &#8211; Nichts ist so wie es scheint  
+23 - Nichts ist so wie es scheint  
 im juli  
 Zimmer vorm Balkon  
 Good bye Lennin  
@@ -34,6 +34,6 @@ Vier Minuten
 Crazy  
 Sommersturm  
 Das experiment  
-&#8230;
+...
 
 [http://de.wikipedia.org/wiki/Liste\_bedeutender\_deutscher_Filme](http://de.wikipedia.org/wiki/Liste_bedeutender_deutscher_Filme)
