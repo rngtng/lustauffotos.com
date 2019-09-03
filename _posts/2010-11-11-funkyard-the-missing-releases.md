@@ -20,7 +20,7 @@ comments:
   author_url: ''
   date: '2011-05-13 08:42:59 +0000'
   date_gmt: '2011-05-13 07:42:59 +0000'
-  content: ob das wohl an die &ouml;ffentlichkeit musste? ich weiss ja nicht...
+  content: ob das wohl an die öffentlichkeit musste? ich weiss ja nicht...
 - id: 67
   author: admin
   author_email: ''

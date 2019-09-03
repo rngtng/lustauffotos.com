@@ -8,7 +8,7 @@ categories:
 - Nonsense
 tags:
 - berlin
-- neuk&ouml;lln
+- neukölln
 - umzug
 comments:
 - id: 62
@@ -21,7 +21,7 @@ comments:
     neuen Bleibe gepostet? Kannst Dimir ja zeigen, wenn Du bei uns bist (falls uns
     das Wetter unser Wiedersehen nicht vereitelt)\r\nGru&szlig; Papa"
 - id: 63
-  author: P&auml;hrlYn
+  author: PährlYn
   author_email: badewanne28@gmail.com
   author_url: ''
   date: '2010-12-27 12:43:38 +0000'

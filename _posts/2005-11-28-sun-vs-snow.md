@@ -36,20 +36,20 @@ comments:
 
     Jenni & Dominik @ 26.11.2005 16:44 WST
     Hey bruderherz!!!
-    deine Abenteuer sind ja wirklich klasse und ziemlich spannend wie wir auf den Foto&acute;s sehen konnten, ja w&auml;hrend du die sonne und den Strand genie&szlig;t, haben wir hier diese woche den weihnachsmarkt mit dem ersten gl&uuml;hwein er&ouml;ffnet. mit den kindern singen wir die ersten nikolauslieder und am Sonntag brennt bald die adventskerze.auch den schnee haben wir schon begr&uuml;&szlig;t am freitag waren es doch schon 5cm nur leider zu wenig zum Snowboarden...
-    Wir freuen uns noch auf viele weitere Bilder und ausfl&uuml;ge
+    deine Abenteuer sind ja wirklich klasse und ziemlich spannend wie wir auf den Foto&acute;s sehen konnten, ja während du die sonne und den Strand genie&szlig;t, haben wir hier diese woche den weihnachsmarkt mit dem ersten glühwein eröffnet. mit den kindern singen wir die ersten nikolauslieder und am Sonntag brennt bald die adventskerze.auch den schnee haben wir schon begrü&szlig;t am freitag waren es doch schon 5cm nur leider zu wenig zum Snowboarden...
+    Wir freuen uns noch auf viele weitere Bilder und ausflüge
     vermisse dich deine jenni
-    Schicke uns doch mal deinen skypenamen wir k&ouml;nnen dich unter Tobi in the skype nicht finden ober hast du keine zeit zum quatschen
-    Also, sch&ouml;nes ersten adventswochenende :-)
-    Liebe Gr&uuml;&szlig;e jenni und Dominik
+    Schicke uns doch mal deinen skypenamen wir können dich unter Tobi in the skype nicht finden ober hast du keine zeit zum quatschen
+    Also, schönes ersten adventswochenende :-)
+    Liebe Grü&szlig;e jenni und Dominik
 
     Carmen @ 28.11.2005 22:46 WST
-    Hi Tobi, also ich muss sagen, dass ich diesem kalten Nieselregen ohne zu Z&ouml;gern Strand und Eis vorziehen w&uuml;rde ;-) - daf&uuml;r haben wir den Gl&uuml;hwein (um das Wetter sch&ouml;ner zu trinken???)!!!
-    Viele Gr&uuml;&szlig;e aus der Mainzer Unibib, auch an Jenni und Dominik!!!
+    Hi Tobi, also ich muss sagen, dass ich diesem kalten Nieselregen ohne zu Zögern Strand und Eis vorziehen würde ;-) - dafür haben wir den Glühwein (um das Wetter schöner zu trinken???)!!!
+    Viele Grü&szlig;e aus der Mainzer Unibib, auch an Jenni und Dominik!!!
 
     Markus @ 08.12.2005 18:17 WST
     Olla, alter Australier :-) Jo, Du hast recht, hier schneits!
-    Aber daf&uuml;r bekomm ich ECHTE Weihnachten ;-) Und neidisch bin ich auch nicht, nein nein nein!!!
+    Aber dafür bekomm ich ECHTE Weihnachten ;-) Und neidisch bin ich auch nicht, nein nein nein!!!
     Lasses Dir gut gehen!
     Salut, Markus
 

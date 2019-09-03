@@ -1,6 +1,6 @@
 ---
 id: 43
-title: 'St&ouml;ckchen: Tobi ist...'
+title: 'Stöckchen: Tobi ist...'
 date: '2007-06-24 17:38:30 +0000'
 permalink: "/2007/stockchen-tobi-ist/"
 layout: post

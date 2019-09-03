@@ -1,13 +1,13 @@
 ---
 id: 564
-title: Fr&uuml;hst&uuml;cken & Brunchen in Berlin
+title: Frühstücken & Brunchen in Berlin
 date: '2015-06-08 10:24:34 +0000'
 permalink: "/2015/fruehstuecken-in-berlin/"
 layout: post
 categories:
 - Berlin
 tags:
-- fr&uuml;hst&uuml;ck
+- frühstück
 - brunch
 - buffet
 comments: []

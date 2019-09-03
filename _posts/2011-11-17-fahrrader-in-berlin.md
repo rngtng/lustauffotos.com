@@ -1,6 +1,6 @@
 ---
 id: 164
-title: Fahrr&auml;der in Berlin...
+title: Fahrräder in Berlin...
 date: '2011-11-17 16:15:59 +0000'
 permalink: "/2011/fahrrader-in-berlin/"
 layout: post

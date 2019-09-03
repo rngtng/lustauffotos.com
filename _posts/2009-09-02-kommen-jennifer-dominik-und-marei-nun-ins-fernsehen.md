@@ -10,7 +10,7 @@ tags:
 - tv
 - fernsehen
 - volle kanne
-- speiser&ouml;hre
+- speiseröhre
 - zdf
 comments: []
 ---

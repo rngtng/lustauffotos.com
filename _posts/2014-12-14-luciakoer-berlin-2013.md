@@ -1,6 +1,6 @@
 ---
 id: 511
-title: Luciak&ouml;r Berlin 2013
+title: Luciakör Berlin 2013
 date: '2014-12-14 16:23:08 +0000'
 permalink: "/2014/luciakoer-berlin-2013/"
 layout: post

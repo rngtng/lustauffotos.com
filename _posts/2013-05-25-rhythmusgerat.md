@@ -1,6 +1,6 @@
 ---
 id: 279
-title: Rhythmusger&auml;t
+title: Rhythmusgerät
 date: '2013-05-25 16:36:13 +0000'
 permalink: "/2013/rhythmusgerat/"
 layout: post

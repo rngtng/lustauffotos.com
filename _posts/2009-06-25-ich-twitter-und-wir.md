@@ -10,7 +10,7 @@ tags:
 - twitter
 comments:
 - id: 50
-  author: P&auml;hrlYn
+  author: PährlYn
   author_email: badewanne28@gmail.com
   author_url: http://karo-diekaro.blogspot.com/
   date: '2009-08-19 22:02:04 +0000'

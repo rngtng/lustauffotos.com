@@ -1,6 +1,6 @@
 ---
 id: 533
-title: 'Fundst&uuml;ck: Wohnwagon'
+title: 'Fundstück: Wohnwagon'
 date: '2015-02-10 13:43:05 +0000'
 permalink: "/2015/fundstueck-wohnwagon/"
 layout: post
@@ -8,7 +8,7 @@ categories:
 - Netzwelt
 tags:
 - wohnen
-- gr&uuml;n
+- grün
 - autark
 comments: []
 ---

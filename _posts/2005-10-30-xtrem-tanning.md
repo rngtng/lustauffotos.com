@@ -16,11 +16,11 @@ comments:
   date_gmt: '2006-11-14 19:55:52 +0000'
   content: |-
     Daddy @ 31.10.2005 00:33 WST
-    Na ja, die Welt ist eben verr&uuml;ckt! Es soll ja auch K&uuml;hlschr&auml;nke in eiskalten Regionen geben....
-    Das sch&ouml;ne Wetter bleibt uns auch noch am Montag erhalten, dann soll es aber regnen,aber immer noch warm. Ich bin heute durch den Taunus gebikt. Es war herrlich den Nebel aufgehen und die bunten Bl&auml;tter im Sonnenlicht zu sehen.
+    Na ja, die Welt ist eben verrückt! Es soll ja auch Kühlschränke in eiskalten Regionen geben....
+    Das schöne Wetter bleibt uns auch noch am Montag erhalten, dann soll es aber regnen,aber immer noch warm. Ich bin heute durch den Taunus gebikt. Es war herrlich den Nebel aufgehen und die bunten Blätter im Sonnenlicht zu sehen.
     Der Taunus hat was, besonder in der Gegend um die Burg.
-    Nun jetzt ist die Zeit umgestellt. Die Differenz ist jetzt 7 Stunden. Es ist jetzt abends sehr fr&uuml;h dunkel und erinnert doch sehr an Winter. Aprospos Winter: kannst du uns mal deine Adresse schicken. Die Pakete zu Weihnachten und deinem Geburtstag brauchen eine Weile bis Australien.
-    Viele Gr&uuml;&szlig;e
+    Nun jetzt ist die Zeit umgestellt. Die Differenz ist jetzt 7 Stunden. Es ist jetzt abends sehr früh dunkel und erinnert doch sehr an Winter. Aprospos Winter: kannst du uns mal deine Adresse schicken. Die Pakete zu Weihnachten und deinem Geburtstag brauchen eine Weile bis Australien.
+    Viele Grü&szlig;e
     Dad
 
     daddy @ 31.10.2005 00:35 WST
@@ -32,15 +32,15 @@ comments:
     Gru&szlig; DAD
 
     jenni @ 04.11.2005 15:29 WST
-    Also, dann will ich auch mal wieder mein Gl&uuml;ck versuchen... Meine eintr&auml;ge erscheinen nie wieder wenn ich sie sende!!!
+    Also, dann will ich auch mal wieder mein Glück versuchen... Meine einträge erscheinen nie wieder wenn ich sie sende!!!
     Ich hoffe dir geht es weiterhin so gut und jetzt die entscheidende frage:
     dreht sich das wasser in Australien im Ausguss andersrum???
     ich wei&szlig; die antwort, finde den gedanken aber ganz lustig, wenn du&acute;s ausprobierst...
     Just a jok
-    Liebe Gr&uuml;&szlig;e deine jenni
+    Liebe Grü&szlig;e deine jenni
 
     Heiki @ 04.11.2005 19:57 WST
-    Juhuu T&ouml;bi,
+    Juhuu Töbi,
     wo ich die Sache mit dem Ausguss lese: steht der Mond in Australien auf`m Kopf?!
 ---
 So wie sich in Deutschland der Sommer nicht richtig verabschieden will, ist es hier mit dem Winter. Mal haben wir super Sonne, warm und blauer Himmel, am naechsten Tag wieder kalt, windig und Regen. Das Wetter spielt verrueckt. Soviel wie jetzt hat es schon seit langem nicht mehr in Perth geregnet!  

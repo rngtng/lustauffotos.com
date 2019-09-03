@@ -17,25 +17,25 @@ comments:
   content: |-
     Omi und Opi @ 16.10.2005 20:06 WST
     Dein Stuhl ist wunderbar, hoffentlich ist er robust genug....
-    Ich w&uuml;rde gerne mich als testperson zur verf&uuml;gung stellen, wenn es nur nicht o weit w&auml;re...
+    Ich würde gerne mich als testperson zur verfügung stellen, wenn es nur nicht o weit wäre...
     Wir sind gerade in Idstein und schauen deine Fotos an..
     Omi&Opi
 
     Bj @ 16.10.2005 20:10 WST
     Na endlich. Bilder ....
-    Sieht echt cool aus das alles, aber deine Einrichtung ist schon noch etwas sp&auml;rlich.
+    Sieht echt cool aus das alles, aber deine Einrichtung ist schon noch etwas spärlich.
 
     Omi&Opi;Daddy,Uschi und Carmen @ 16.10.2005 20:23 WST
     Noch nie hattest du eine solche Ordnung in einen deiner bisherigen Zimmer...
-    Aber das schaffst du schon. Dessen sind wir uns sicher. Und eigentlich brauchst du das Zimmer ja gar nicht. Es scheint ja wohl immer die Sonne, nur die Temp. m&uuml;ssen noch etwas nach oben gehen.
-    Nochmals viele Gr&uuml;&szlig;e. Dir geht es gut wie wir sehen k&ouml;nnen. Bitte stelle noch mehr Bilder von dir in die Gallery.
+    Aber das schaffst du schon. Dessen sind wir uns sicher. Und eigentlich brauchst du das Zimmer ja gar nicht. Es scheint ja wohl immer die Sonne, nur die Temp. müssen noch etwas nach oben gehen.
+    Nochmals viele Grü&szlig;e. Dir geht es gut wie wir sehen können. Bitte stelle noch mehr Bilder von dir in die Gallery.
 
-    tr&uuml;bi @ 19.10.2005 23:32 WST
+    trübi @ 19.10.2005 23:32 WST
     sau gut den kannste gleich mit zu den stullen packen und mit auf arbeit nehmen; clever
 
     Chris @ 28.10.2005 17:25 WST
-    Hey T&ouml;&ouml;bi!!
-    Habs endlich auch mal auf deine tolle Seite geschafft! super! Bin ja schon etwas neidisch geworden, bei so einem wunderbaren Stuhl. Also stell noch mehr Bilder ins Netz, vorallem von deinem gem&uuml;tlichen Zimmer!
+    Hey Tööbi!!
+    Habs endlich auch mal auf deine tolle Seite geschafft! super! Bin ja schon etwas neidisch geworden, bei so einem wunderbaren Stuhl. Also stell noch mehr Bilder ins Netz, vorallem von deinem gemütlichen Zimmer!
     rock on!
     Chris
 

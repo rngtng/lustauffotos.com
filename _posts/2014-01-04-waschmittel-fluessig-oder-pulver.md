@@ -1,6 +1,6 @@
 ---
 id: 325
-title: 'Waschmittel fl&uuml;ssig oder Pulver '
+title: 'Waschmittel flüssig oder Pulver '
 date: '2014-01-04 14:20:19 +0000'
 permalink: "/2014/waschmittel-fluessig-oder-pulver/"
 layout: post

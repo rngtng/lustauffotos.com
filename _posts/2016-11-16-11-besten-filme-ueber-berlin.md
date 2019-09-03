@@ -1,6 +1,6 @@
 ---
 id: 692
-title: 11 Besten Filme &uuml;ber Berlin
+title: 11 Besten Filme über Berlin
 date: '2016-11-16 21:12:01 +0000'
 permalink: "/2016/11-besten-filme-ueber-berlin/"
 layout: post

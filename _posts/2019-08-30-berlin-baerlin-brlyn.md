@@ -1,5 +1,5 @@
 ---
-title: Berlin, B&auml;rlin, BrlYn
+title: Berlin, Bärlin, BrlYn
 date: '2019-08-30 22:07:50 -0500'
 layout: post
 categories:

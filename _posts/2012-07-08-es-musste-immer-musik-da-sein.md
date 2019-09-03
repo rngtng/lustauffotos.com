@@ -1,6 +1,6 @@
 ---
 id: 212
-title: Es m&uuml;sste immer Musik da sein.
+title: Es müsste immer Musik da sein.
 date: '2012-07-08 13:12:59 +0000'
 permalink: "/2012/es-musste-immer-musik-da-sein/"
 layout: post

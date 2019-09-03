@@ -16,20 +16,20 @@ comments:
   date_gmt: '2006-11-14 19:49:23 +0000'
   content: |-
     Jonas @ 10.10.2005 00:20 WST
-    Dann hoffe ich, dass du dich schnell einlebst und vorerst keinen K&auml;ngurus in die Quere kommst, falls es bei euch in der N&auml;he welche gibt...?
-    Keine Ahnung was ich schreiben soll, aber dein erster Tag h&ouml;rt sich schon sehr aufregend an.
+    Dann hoffe ich, dass du dich schnell einlebst und vorerst keinen Kängurus in die Quere kommst, falls es bei euch in der Nähe welche gibt...?
+    Keine Ahnung was ich schreiben soll, aber dein erster Tag hört sich schon sehr aufregend an.
 
     Stephan @ 10.10.2005 00:45 WST
     Hi Tobi!!
-    W&uuml;nsche Dir auch viel Spa&szlig; und eine gute Zeit in Perth. Im globalen Vergleich sind wir ja jetzt geradezu "Nachbarn" mit nur ein paar Stunden Flug zwischen Perth und Singapur :-)
-    Viele Gr&uuml;&szlig;e!
-    Ich schau auf jeden Fall regelm&auml;&szlig;ig auf deinen Blog!
+    Wünsche Dir auch viel Spa&szlig; und eine gute Zeit in Perth. Im globalen Vergleich sind wir ja jetzt geradezu "Nachbarn" mit nur ein paar Stunden Flug zwischen Perth und Singapur :-)
+    Viele Grü&szlig;e!
+    Ich schau auf jeden Fall regelmä&szlig;ig auf deinen Blog!
     Stephan
 
     Jenni @ 10.10.2005 01:42 WST
     Hey Bruderherz!!!
-    Bin froh das du gut angekommen bist und so wie es sich anh&ouml;rt auch recht gut angetroffen hast...!Bin gespannt auf die ersten Pics!!!
-    Viele liebe Gr&uuml;&szlig;e auch von Dominik
+    Bin froh das du gut angekommen bist und so wie es sich anhört auch recht gut angetroffen hast...!Bin gespannt auf die ersten Pics!!!
+    Viele liebe Grü&szlig;e auch von Dominik
     Deine Jenni
 
     Daddy @ 10.10.2005 04:20 WST
@@ -50,7 +50,7 @@ comments:
 
     Astrid @ 10.10.2005 14:59 WST
     Welcome in Australia Tobi!
-    Klingt ja ganz nett, was Du so schreibst. Du hast mich nur mit diesem Blog etwas &uuml;berfordert. Bei mir als Jurist, sind so moderne Kommunikationsformen noch nicht angekommen und ich musste ganz sch&ouml;n suchen, um mich auf der Seite zurechtzufinden. Was (ich gebe es ja zu) nicht so ganz geklappt hat. Naja, werde noch etwas weitersuchen m&uuml;ssen.
+    Klingt ja ganz nett, was Du so schreibst. Du hast mich nur mit diesem Blog etwas überfordert. Bei mir als Jurist, sind so moderne Kommunikationsformen noch nicht angekommen und ich musste ganz schön suchen, um mich auf der Seite zurechtzufinden. Was (ich gebe es ja zu) nicht so ganz geklappt hat. Naja, werde noch etwas weitersuchen müssen.
     Dir aber weiterhin noch gaaaanz viel Spa&szlig;,
     Astrid
 

@@ -14,12 +14,12 @@ tags:
 - Ferrero
 comments:
 - id: 53
-  author: P&auml;hrlYn
+  author: PährlYn
   author_email: badewanne28@gmail.com
   author_url: ''
   date: '2009-12-19 13:14:16 +0000'
   date_gmt: '2009-12-19 12:14:16 +0000'
-  content: Liebe Vorweihnachtsgr&uuml;&szlig;e einer stolzen BC50 Besitzerin; morgen
+  content: Liebe Vorweihnachtsgrü&szlig;e einer stolzen BC50 Besitzerin; morgen
     fahre ich wieder mit dem Zuch quer durchs Land ;-)
 ---
 ![](<http://mein-deal.com/wp-content/uploads/2009/09/abloadgmga.jpg)>
