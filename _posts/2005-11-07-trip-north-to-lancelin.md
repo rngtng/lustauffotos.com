@@ -10,7 +10,7 @@ tags: []
 comments:
 - id: 22
   author: Tobi
-  author_email: ted@jump-around.eu
+  author_email: foo@bar.com
   author_url: http://www.lustauffotos.de
   date: '2006-11-14 20:57:09 +0000'
   date_gmt: '2006-11-14 19:57:09 +0000'
