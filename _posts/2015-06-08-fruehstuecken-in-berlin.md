@@ -12,7 +12,7 @@ tags:
 - buffet
 comments: []
 ---
-![](<https://irs2.4sqi.net/img/general/width960/131807_Gc40okFSd5CQ87upBntNtKlCjjxQyY4AT5J-4pJ_L-0.jpg)>
+![](https://irs2.4sqi.net/img/general/width960/131807_Gc40okFSd5CQ87upBntNtKlCjjxQyY4AT5J-4pJ_L-0.jpg)
 
 Meine Favs:
 

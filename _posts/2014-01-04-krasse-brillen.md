@@ -10,7 +10,7 @@ tags:
 - brille
 comments: []
 ---
-![](<http://www.owloptics.com/images/article/3/7/eins_palisander_glasses_f2.jpg)>
+![](http://www.owloptics.com/images/article/3/7/eins_palisander_glasses_f2.jpg)
 
 Wow, schicke Brillen bei OWL:&nbsp;<http://www.owloptics.com/en>
 

@@ -15,7 +15,7 @@ In alter Tradition haben wir wieder auf dem Skandinavischen Weihnachtsmarkt in d
 
 &nbsp;
 
-![](<http://www.prenzlberger-stimme.de/wordpress/wp-content/uploads/2011/12/118-300x225.jpg)>
+![](http://www.prenzlberger-stimme.de/wordpress/wp-content/uploads/2011/12/118-300x225.jpg)
 
 &nbsp;
 

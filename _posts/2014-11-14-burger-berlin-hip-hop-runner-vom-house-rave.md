@@ -10,7 +10,7 @@ tags:
 - burger
 comments: []
 ---
-![](<http://burgersandhiphop.com/images/burgermap.jpg)>
+![](http://burgersandhiphop.com/images/burgermap.jpg)
 
 <http://burgersandhiphop.com>
 

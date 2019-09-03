@@ -9,7 +9,7 @@ categories:
 tags: []
 comments: []
 ---
-![](<http://i1.wp.com/pulptastic.com/wp-content/uploads/2015/01/enhanced-buzz-28139-1420820805-175.jpg?resize=620%2C1583)>
+![](http://i1.wp.com/pulptastic.com/wp-content/uploads/2015/01/enhanced-buzz-28139-1420820805-175.jpg?resize=620%2C1583)
 
 Mehr hier:  
 <http://pulptastic.com/24-must-see-diagrams-will-make-eating-healthy-super-easy/>

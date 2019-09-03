@@ -9,6 +9,6 @@ categories:
 tags: []
 comments: []
 ---
-![](<http://strip.rupy.se/file/martin+kellerman/roc_20110717_big.gif)>
+![](http://strip.rupy.se/file/martin+kellerman/roc_20110717_big.gif)
 
 thx Hannes!

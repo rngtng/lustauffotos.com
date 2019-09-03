@@ -12,7 +12,7 @@ tags:
 - kaufen
 comments: []
 ---
-![](<http://www.firefly-power.de/Fahrrad-Symbol_01_KMJ.png)>  
+![](http://www.firefly-power.de/Fahrrad-Symbol_01_KMJ.png)  
 .. kauft man hier:
 
 <http://www.berliner-fahrradlaeden.de/portal_a.html>

@@ -23,8 +23,8 @@ Ideen:
 
 More by Matti:
 
-![](<http://w5ran.com/wp-content/uploads/2011/04/bookcase-stairs-800x535.jpg)>
+![](http://w5ran.com/wp-content/uploads/2011/04/bookcase-stairs-800x535.jpg)
 
-![](<http://www.iongroup.com/blog/wp-content/uploads/stair-storage.jpg)>
+![](http://www.iongroup.com/blog/wp-content/uploads/stair-storage.jpg)
 
-![](<http://yurtinfo.org/images/yurtkids_5.jpg)>
+![](http://yurtinfo.org/images/yurtkids_5.jpg)

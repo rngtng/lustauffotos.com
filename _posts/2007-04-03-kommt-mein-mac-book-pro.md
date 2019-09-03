@@ -11,4 +11,4 @@ comments: []
 ---
 Solche Meldungen liebt der Tag:
 
-[Gerücht: Neue MacBook Pros am 15. April 2007?](<http://www.mactechnews.de/index.php?id=16236)>
+[Gerücht: Neue MacBook Pros am 15. April 2007?](http://www.mactechnews.de/index.php?id=16236)

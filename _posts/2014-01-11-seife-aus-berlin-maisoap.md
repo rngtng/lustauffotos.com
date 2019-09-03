@@ -9,6 +9,6 @@ categories:
 tags: []
 comments: []
 ---
-![](<http://www.maisoap.de/wp-content/uploads/2012/11/Kokosnuss.jpg)>
+![](http://www.maisoap.de/wp-content/uploads/2012/11/Kokosnuss.jpg)
 
 <http://www.maisoap.de/>

@@ -12,7 +12,7 @@ tags:
 - serial
 comments: []
 ---
-![](<http://hw4.serialpodcast.org/sites/all/themes/podcast/img/logo.png)>
+![](http://hw4.serialpodcast.org/sites/all/themes/podcast/img/logo.png)
 
 Krasser Real(?)-Crime Podcast. Listen to it!
 

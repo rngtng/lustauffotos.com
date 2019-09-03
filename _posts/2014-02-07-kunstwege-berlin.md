@@ -10,7 +10,7 @@ tags:
 - kunst
 comments: []
 ---
-![](<http://www.kunstwege-berlin.de/gallery/images/logo_black.png)>
+![](http://www.kunstwege-berlin.de/gallery/images/logo_black.png)
 
 <http://www.kunstwege-berlin.de>
 

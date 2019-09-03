@@ -12,5 +12,5 @@ comments: []
 ---
 Schönes Ding von Babbel:
 
-![](<https://www.babbel.com/magazine/static/img/en/swedify_yourself.png)>  
+![](https://www.babbel.com/magazine/static/img/en/swedify_yourself.png)  
 <https://www.babbel.com/en/magazine/swedify-yourself>

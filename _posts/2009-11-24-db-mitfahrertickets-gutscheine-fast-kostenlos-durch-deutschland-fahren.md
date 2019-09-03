@@ -22,7 +22,7 @@ comments:
   content: Liebe Vorweihnachtsgrü&szlig;e einer stolzen BC50 Besitzerin; morgen
     fahre ich wieder mit dem Zuch quer durchs Land ;-)
 ---
-![](<http://mein-deal.com/wp-content/uploads/2009/09/abloadgmga.jpg)>
+![](http://mein-deal.com/wp-content/uploads/2009/09/abloadgmga.jpg)
 
 Ja, ich fahre gerne Bahn. Schnell, einfach und gemütlich. Ich glaub, am produktivsten bin ich im Zug - Kein Internet und auch niemand der mich stört. Tickets buche ich online problemlos - perfekt!  
 Klar, die Bahn ist auch unpünktlich, teuer und 'ne Servicewüste - aber nicht ganz. Gerade beim Preis gibt's öfters Vergünstigungen die das Bahnfahren kaum teuer als MFG oder sogar billiger machen.

@@ -11,6 +11,6 @@ comments: []
 ---
 schau an, auch Rene will sich ein Hochbett bauen:
 
-![](<http://www.nerdcore.de/wp-content/uploads/2014/08/hochbett1.gif)>
+![](http://www.nerdcore.de/wp-content/uploads/2014/08/hochbett1.gif)
 
 <http://www.nerdcore.de/2014/08/11/ich-will-ein-deluxe-comic-storage-in-meinem-superhochbett/>

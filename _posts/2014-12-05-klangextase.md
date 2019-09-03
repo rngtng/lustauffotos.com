@@ -10,6 +10,6 @@ categories:
 tags: []
 comments: []
 ---
-![](<http://www.klangextase.de/images/teaser-wallpaper.png)>  
+![](http://www.klangextase.de/images/teaser-wallpaper.png)  
 Viel gute Musik auf:  
 <http://www.klangextase.de>

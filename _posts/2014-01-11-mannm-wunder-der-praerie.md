@@ -11,7 +11,7 @@ comments: []
 ---
 Hab ich leider verpasst, klingt aber sehr spannend:
 
-![](<http://www.wunderderpraerie.de/sites/wdp/files/textimages/wdp13_web_intro.jpg)>
+![](http://www.wunderderpraerie.de/sites/wdp/files/textimages/wdp13_web_intro.jpg)
 
 dann bis Wunder der Prärie 2015!  
 <http://www.wunderderpraerie.de/>

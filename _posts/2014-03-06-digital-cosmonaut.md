@@ -9,7 +9,7 @@ categories:
 tags: []
 comments: []
 ---
-![](<http://digitalcosmonaut.com/wp-content/uploads/2013/01/cosmonautlogo1.jpg)>
+![](http://digitalcosmonaut.com/wp-content/uploads/2013/01/cosmonautlogo1.jpg)
 
 Sehr schöner Photo/Stadt/Blog für unser geliebtes Berlin:
 

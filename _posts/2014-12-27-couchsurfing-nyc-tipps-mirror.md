@@ -12,7 +12,7 @@ tags:
 - tipps
 comments: []
 ---
-Auf [Couchsurfing](<http://www.couchsurfing.org/n/threads/new-york-new-york-united-states-take-a-ride-boat-on-staten-island-ferry-make-a-picnic-in-the-central-p-listen-to-a-gospel-in-a-harlem-s-church)> gab es einen schönen Thread mit viel viel NYC Tipp. Leider wurde jedoch durch den relaunch alles versteckt/gelöscht. Zum Glück hatte ich alles gespeichert, hier der Thread:
+Auf [Couchsurfing](http://www.couchsurfing.org/n/threads/new-york-new-york-united-states-take-a-ride-boat-on-staten-island-ferry-make-a-picnic-in-the-central-p-listen-to-a-gospel-in-a-harlem-s-church) gab es einen schönen Thread mit viel viel NYC Tipp. Leider wurde jedoch durch den relaunch alles versteckt/gelöscht. Zum Glück hatte ich alles gespeichert, hier der Thread:
 
 A list of things I'd like to do in NY in august. Give me some tips to improve it about 5 months ago  
 7GIOSUE7  

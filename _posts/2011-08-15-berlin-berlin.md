@@ -9,7 +9,7 @@ categories:
 tags: []
 comments: []
 ---
-![](<http://berlinattractions.blog.com/files/2010/06/berlin1.jpg)>
+![](http://berlinattractions.blog.com/files/2010/06/berlin1.jpg)
 
 <https://docs.google.com/spreadsheet/ccc?authkey=CO-p8ooF&key=0AqzU8oO1F-irdEVVUzd0RjZKREtDUm5iTURpWTF0MkE&hl=de&authkey=CO-p8ooF#gid=0>
 

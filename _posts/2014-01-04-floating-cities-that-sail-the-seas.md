@@ -9,7 +9,7 @@ categories:
 tags: []
 comments: []
 ---
-![](<http://cdn.mtlblog.com/uploads/2013/10/des-artistes-ont-construit-des-radeaux-faits-de-dechets-pour-vivre-et-naviguer-sur-les-mers-deurope2-650x433.jpg)>
+![](http://cdn.mtlblog.com/uploads/2013/10/des-artistes-ont-construit-des-radeaux-faits-de-dechets-pour-vivre-et-naviguer-sur-les-mers-deurope2-650x433.jpg)
 
 Goil:&nbsp;<http://www.mtlblog.com/2013/10/floating-cities-that-sail-the-seas/>
 
