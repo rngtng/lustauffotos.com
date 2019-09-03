@@ -1,13 +1,13 @@
 ---
 id: 27
 title: Happy New Year
-date: 2006-01-03T18:01:01+01:00
-author: tobi
+date: '2006-01-03 18:01:01 +0000'
+permalink: "/2006/happy-new-year/"
 layout: post
-guid: http://laf.jump-around.eu/2006/01/03/happy-new-year/
-permalink: /2006/happy-new-year/
 categories:
-  - Australia
+- Australia
+tags: []
+comments: []
 ---
 Happy new Year to all of you!
 

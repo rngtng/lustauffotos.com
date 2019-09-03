@@ -1,16 +1,16 @@
 ---
 id: 688
 title: Berlin Walking tours
-date: 2016-11-16T14:43:57+01:00
-author: admin
+date: '2016-11-16 14:43:57 +0000'
+permalink: "/2016/berlin-walking-tours/"
 layout: post
-guid: http://www.lustauffotos.com/?p=688
-permalink: /2016/berlin-walking-tours/
 categories:
-  - Berlin
+- Berlin
+tags: []
+comments: []
 ---
 Die beste Art die Stadt zu erkunden:
 
 Streetart Tour (link kommt)  
 Fototour (link kommt)  
-<http://www.koenig-friedrich.de/html/der_spaziergang.html>
+<http://www.koenig-friedrich.de/html/der\_spaziergang.html>

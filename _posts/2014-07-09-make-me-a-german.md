@@ -1,15 +1,14 @@
 ---
 id: 452
 title: Make Me a German
-date: 2014-07-09T18:54:35+01:00
-author: admin
+date: '2014-07-09 18:54:35 +0000'
+permalink: "/2014/make-me-a-german/"
 layout: post
-guid: http://www.lustauffotos.com/?p=452
-permalink: /2014/make-me-a-german/
 categories:
-  - Nonsense
+- Nonsense
 tags:
-  - germany
+- germany
+comments: []
 ---
 <https://www.youtube.com/watch?v=9bTKSin4JN4>
 

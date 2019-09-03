@@ -1,16 +1,16 @@
 ---
 id: 523
-title: entreißen Sandman
-date: 2015-01-04T13:33:22+01:00
-author: tobi
+title: entrei&szlig;en Sandman
+date: '2015-01-04 13:33:22 +0000'
+permalink: "/2015/entreissen-sandman/"
 layout: post
-guid: http://www.lustauffotos.com/?p=523
-permalink: /2015/entreissen-sandman/
 categories:
-  - Nonsense
+- Nonsense
+tags: []
+comments: []
 ---
 Omg Metallica so Young!!!
 
-
+<http://m.youtube.com/watch?v=\_W7wqQwa-TU>
 
 Funfact: damit hab ich mal den dancefloor leer geräumt #pseudoDJ

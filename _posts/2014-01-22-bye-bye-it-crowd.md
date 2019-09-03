@@ -1,16 +1,17 @@
 ---
 id: 378
 title: Bye Bye IT Crowd
-date: 2014-01-22T11:21:43+01:00
-author: admin
+date: '2014-01-22 11:21:43 +0000'
+permalink: "/2014/bye-bye-it-crowd/"
 layout: post
-guid: http://www.lustauffotos.com/?p=378
-permalink: /2014/bye-bye-it-crowd/
 categories:
-  - WasTobiMag
+- WasTobiMag
+tags: []
+comments: []
 ---
 The last Episode:
 
 <http://www.youtube.com/watch?v=TuS7uBuUm9I>
 
-Behind the scenes:
+Behind the scenes:  
+<http://www.youtube.com/watch?v=q8ZxDijh\_Zw>

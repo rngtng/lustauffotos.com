@@ -1,13 +1,13 @@
 ---
 id: 690
 title: The Beauty of Orgasms on Film
-date: 2016-11-16T21:04:08+01:00
-author: admin
+date: '2016-11-16 21:04:08 +0000'
+permalink: "/2016/the-beauty-of-orgasms-on-film/"
 layout: post
-guid: http://www.lustauffotos.com/?p=690
-permalink: /2016/the-beauty-of-orgasms-on-film/
 categories:
-  - WasTobiMag
+- WasTobiMag
+tags: []
+comments: []
 ---
 wow: <http://www.iheartberlin.de/2013/05/28/the-beauty-of-orgasms-on-film/>
 

@@ -1,18 +1,15 @@
 ---
 id: 156
 title: Berlin, Berlin, Deutschland
-date: 2011-09-08T09:57:44+01:00
-author: admin
+date: '2011-09-08 09:57:44 +0000'
+permalink: "/2011/berlin-berlin-welt/"
 layout: post
-guid: http://www.lustauffotos.com/?p=156
-permalink: /2011/berlin-berlin-welt/
 categories:
-  - Nonsense
+- Nonsense
 tags:
-  - berlin
+- berlin
+comments: []
 ---
-<p style="text-align: center;">
-  <img class="aligncenter" src="http://twitpic.com/show/full/6hotmw.png" alt="Deutschland aus Berliner Sicht" width="396" height="560" />
-</p>
+![Deutschland aus Berliner Sicht](<http://twitpic.com/show/full/6hotmw.png)>
 
-[via [frankwettert](https://twitter.com/frankwettert/status/111687237963489280)]
+[via [frankwettert](<https://twitter.com/frankwettert/status/111687237963489280)]>

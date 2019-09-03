@@ -1,15 +1,14 @@
 ---
 id: 629
 title: Movies of 2014 and 2015
-date: 2015-02-12T13:26:34+01:00
-author: admin
+date: '2015-02-12 13:26:34 +0000'
+permalink: "/2015/the-23-best-independent-movies-of-2014/"
 layout: post
-guid: http://www.lustauffotos.com/?p=629
-permalink: /2015/the-23-best-independent-movies-of-2014/
 categories:
-  - Nonsense
+- Nonsense
 tags:
-  - Movies
+- Movies
+comments: []
 ---
 <http://www.tasteofcinema.com/2014/the-23-best-independent-movies-of-2014/3/>
 

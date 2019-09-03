@@ -1,15 +1,15 @@
 ---
 id: 612
-title: 'Monolink - Burning Sun'
-date: 2015-11-28T15:46:08+01:00
-author: admin
+title: Monolink - Burning Sun
+date: '2015-11-28 15:46:08 +0000'
+permalink: "/2015/monolink-burning-sun/"
 layout: post
-guid: http://www.lustauffotos.com/?p=612
-permalink: /2015/monolink-burning-sun/
 categories:
-  - Music
+- Music
 tags:
-  - link
-  - monolink
-  - steffen
+- monolink
+- steffen
+- link
+comments: []
 ---
+<https://www.youtube.com/watch?v=QrX7\_JuhELk>

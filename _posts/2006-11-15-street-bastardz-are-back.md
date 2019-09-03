@@ -1,13 +1,13 @@
 ---
 id: 33
 title: Street Bastardz are Back!
-date: 2006-11-15T10:12:26+01:00
-author: tobi
+date: '2006-11-15 10:12:26 +0000'
+permalink: "/2006/street-bastardz-are-back/"
 layout: post
-guid: http://laf.jump-around.eu/2006/11/15/street-bastardz-are-back/
-permalink: /2006/street-bastardz-are-back/
 categories:
-  - Nonsense
+- Nonsense
+tags: []
+comments: []
 ---
 Yeah! Das lange Warten ist endlich vorbei! DIE Hip-Hop (runner vom House, Rave!) Gang hat am Samstag ihre neue Pladde 'Introducing Arthur Schnitzler' vorgestellt.  
 Auszug aus dem Cover:  

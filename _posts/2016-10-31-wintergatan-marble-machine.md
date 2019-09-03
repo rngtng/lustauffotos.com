@@ -1,13 +1,13 @@
 ---
 id: 662
-title: 'Wintergatan - Marble Machine'
-date: 2016-10-31T11:12:10+01:00
-author: admin
+title: Wintergatan - Marble Machine
+date: '2016-10-31 11:12:10 +0000'
+permalink: "/2016/wintergatan-marble-machine/"
 layout: post
-guid: http://www.lustauffotos.com/?p=662
-permalink: /2016/wintergatan-marble-machine/
 categories:
-  - Music
+- Music
+tags: []
+comments: []
 ---
 wuhaaaa: <https://www.youtube.com/watch?v=IvUU8joBb1Q>
 

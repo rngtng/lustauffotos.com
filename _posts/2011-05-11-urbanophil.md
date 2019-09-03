@@ -1,16 +1,15 @@
 ---
 id: 134
 title: Urbanophil
-date: 2011-05-11T10:05:34+01:00
-author: admin
+date: '2011-05-11 10:05:34 +0000'
+permalink: "/2011/urbanophil/"
 layout: post
-guid: http://www.lustauffotos.com/?p=134
-permalink: /2011/urbanophil/
 categories:
-  - Nonsense
+- Nonsense
 tags:
-  - city
-  - timelaps
+- city
+- timelaps
+comments: []
 ---
 [vimeo]<http://vimeo.com/23237102[/vimeo]>
 

@@ -1,14 +1,13 @@
 ---
 id: 279
-title: Rhythmusgerät
-date: 2013-05-25T16:36:13+01:00
-author: admin
+title: Rhythmusger&auml;t
+date: '2013-05-25 16:36:13 +0000'
+permalink: "/2013/rhythmusgerat/"
 layout: post
-guid: http://www.lustauffotos.com/?p=279
-permalink: /2013/rhythmusgerat/
 categories:
-  - Nonsense
+- Nonsense
 tags:
-  - badesalz
+- badesalz
+comments: []
 ---
 <http://www.youtube.com/watch?v=NPJfnE5bO1Y>

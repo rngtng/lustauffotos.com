@@ -1,12 +1,14 @@
 ---
 id: 478
 title: 'NCY Imports IV:  Mean Tweets'
-date: 2014-11-18T19:55:32+01:00
-author: tobi
+date: '2014-11-18 19:55:32 +0000'
+permalink: "/2014/ncy-imports-iv-mean-tweets/"
 layout: post
-guid: http://www.lustauffotos.com/?p=478
-permalink: /2014/ncy-imports-iv-mean-tweets/
 categories:
-  - New York
+- New York
+tags: []
+comments: []
 ---
+<https://www.youtube.com/watch?v=gTix7FDHZcA>
+
 [via Fabio]

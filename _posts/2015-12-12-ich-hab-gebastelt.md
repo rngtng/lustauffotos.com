@@ -1,13 +1,13 @@
 ---
 id: 639
 title: Ich hab gebastelt
-date: 2015-12-12T12:29:24+01:00
-author: admin
+date: '2015-12-12 12:29:24 +0000'
+permalink: "/2015/ich-hab-gebastelt/"
 layout: post
-guid: http://www.lustauffotos.com/?p=639
-permalink: /2015/ich-hab-gebastelt/
 categories:
-  - Nonsense
+- Nonsense
+tags: []
+comments: []
 ---
 Für die HitFox Xmas Party:
 

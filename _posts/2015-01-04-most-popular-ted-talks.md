@@ -1,12 +1,12 @@
 ---
 id: 521
 title: Most popular ted talks
-date: 2015-01-04T13:31:50+01:00
-author: tobi
+date: '2015-01-04 13:31:50 +0000'
+permalink: "/2015/most-popular-ted-talks/"
 layout: post
-guid: http://www.lustauffotos.com/?p=521
-permalink: /2015/most-popular-ted-talks/
 categories:
-  - Nonsense
+- Nonsense
+tags: []
+comments: []
 ---
-[http://www.ted.com/playlists/171/the\_most\_popular\_talks\_of_all](http://www.ted.com/playlists/171/the_most_popular_talks_of_all)
+<http://www.ted.com/playlists/171/the\_most\_popular\_talks\_of\_all>

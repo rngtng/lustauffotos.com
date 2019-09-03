@@ -1,13 +1,13 @@
 ---
 id: 635
-title: 'Hebammen und so...'
-date: 2016-02-02T12:30:30+01:00
-author: admin
+title: Hebammen und so...
+date: '2016-02-02 12:30:30 +0000'
+permalink: "/2016/hebammen-und-so/"
 layout: post
-guid: http://www.lustauffotos.com/?p=635
-permalink: /2016/hebammen-und-so/
 categories:
-  - DaddyHacks
+- DaddyHacks
+tags: []
+comments: []
 ---
 Schöner Beitrag über Geburtshaus, Geburt und Hebammen
 

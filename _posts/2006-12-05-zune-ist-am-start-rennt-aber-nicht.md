@@ -1,13 +1,13 @@
 ---
 id: 34
-title: 'Zune ist am Start - rennt aber nicht!'
-date: 2006-12-05T12:41:17+01:00
-author: tobi
+title: Zune ist am Start - rennt aber nicht!
+date: '2006-12-05 12:41:17 +0000'
+permalink: "/2006/zune-ist-am-start-rennt-aber-nicht/"
 layout: post
-guid: http://www.lustauffotos.com/blog/2006/12/05/zune-ist-am-start-rennt-aber-nicht/
-permalink: /2006/zune-ist-am-start-rennt-aber-nicht/
 categories:
-  - Nonsense
+- Nonsense
+tags: []
+comments: []
 ---
 Seit einger Zeit ist der 'iPod killer' Zune in den USA zu erhalten. Kurz zusammen gefasst:  
 Pro: Radio, WLAN Idee(!)  

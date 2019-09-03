@@ -1,15 +1,14 @@
 ---
 id: 249
-title: 'Schuhe Schuhe Schuhe...'
-date: 2013-02-02T14:53:05+01:00
-author: admin
+title: Schuhe Schuhe Schuhe...
+date: '2013-02-02 14:53:05 +0000'
+permalink: "/2013/schuhe-schuhe-schuhe/"
 layout: post
-guid: http://www.lustauffotos.com/?p=249
-permalink: /2013/schuhe-schuhe-schuhe/
 categories:
-  - Nonsense
+- Nonsense
 tags:
-  - schuhe
+- schuhe
+comments: []
 ---
 Ja ich mag Schuhe, besonders von:
 

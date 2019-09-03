@@ -1,13 +1,13 @@
 ---
 id: 781
-title: Lecker Käse
-date: 2019-08-13T12:15:19+01:00
-author: admin
+title: Lecker K&auml;se
+date: '2019-08-13 12:15:19 +0000'
+permalink: "/2019/lecker-kaese/"
 layout: post
-guid: http://www.lustauffotos.com/?p=781
-permalink: /2019/lecker-kaese/
 categories:
-  - Nonsense
+- Nonsense
+tags: []
+comments: []
 ---
 Mein neuer Favorit: Duc-de-Bourgogne  
 <https://ecoinform.de/Duc-de-Bourgogne.Detail;84238.html>

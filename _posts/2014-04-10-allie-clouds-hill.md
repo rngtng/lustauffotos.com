@@ -1,25 +1,25 @@
 ---
 id: 405
-title: 'Allie - Clouds Hill'
-date: 2014-04-10T19:55:07+01:00
-author: admin
+title: Allie - Clouds Hill
+date: '2014-04-10 19:55:07 +0000'
+permalink: "/2014/allie-clouds-hill/"
 layout: post
-guid: http://www.lustauffotos.com/?p=405
-permalink: /2014/allie-clouds-hill/
 categories:
-  - Berlin
-  - Music
+- Music
+- Berlin
+tags: []
+comments: []
 ---
-Ui mein neuster Ohrwurm -  Allie aus Berlin. Schicket Ding, anhören. Uncanny Valley:
+Ui mein neuster Ohrwurm - &nbsp;Allie aus Berlin. Schicket Ding, anhören. Uncanny Valley:
 
-
+<https://vimeo.com/60081384>
 
 und ein Interview:
 
-
+<https://www.youtube.com/watch?v=xuF0HHfb\_Tg>
 
 &nbsp;
 
-alles auf <a dir="ltr" title="http://www.alliemusic.bandcamp.com/" href="http://www.alliemusic.bandcamp.com/" target="_blank" rel="nofollow">http://www.alliemusic.bandcamp.com</a>
+alles auf&nbsp;[<http://www.alliemusic.bandcamp.com](http://www.alliemusic.bandcamp.com/> "<http://www.alliemusic.bandcamp.com/")>
 
-ah un mehr ä accustic Wednesday clips hier: <https://www.youtube.com/user/AENEUKOELLN>
+ah un mehr ä accustic Wednesday clips hier:&nbsp;<https://www.youtube.com/user/AENEUKOELLN>

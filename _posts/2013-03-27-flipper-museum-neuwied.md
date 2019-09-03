@@ -1,17 +1,16 @@
 ---
 id: 273
 title: Flipper Museum Neuwied
-date: 2013-03-27T12:17:21+01:00
-author: admin
+date: '2013-03-27 12:17:21 +0000'
+permalink: "/2013/flipper-museum-neuwied/"
 layout: post
-guid: http://www.lustauffotos.com/?p=273
-permalink: /2013/flipper-museum-neuwied/
 categories:
-  - Nonsense
+- Nonsense
 tags:
-  - flipper
-  - museum
-  - pinball
+- flipper
+- pinball
+- museum
+comments: []
 ---
 Me wants!
 

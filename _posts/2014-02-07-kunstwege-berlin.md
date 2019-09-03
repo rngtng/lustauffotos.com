@@ -1,17 +1,16 @@
 ---
 id: 387
 title: Kunstwege Berlin
-date: 2014-02-07T14:39:38+01:00
-author: admin
+date: '2014-02-07 14:39:38 +0000'
+permalink: "/2014/kunstwege-berlin/"
 layout: post
-guid: http://www.lustauffotos.com/?p=387
-permalink: /2014/kunstwege-berlin/
 categories:
-  - Berlin
+- Berlin
 tags:
-  - kunst
+- kunst
+comments: []
 ---
-![](http://www.kunstwege-berlin.de/gallery/images/logo_black.png)
+![](<http://www.kunstwege-berlin.de/gallery/images/logo_black.png)>
 
 <http://www.kunstwege-berlin.de>
 

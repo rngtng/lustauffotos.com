@@ -1,13 +1,13 @@
 ---
 id: 141
-title: Schwimmen in Berlin?
-date: 2011-07-17T15:03:34+01:00
-author: admin
+title: 'Schwimmen in Berlin? '
+date: '2011-07-17 15:03:34 +0000'
+permalink: "/2011/schwimmen-in-berlin/"
 layout: post
-guid: http://www.lustauffotos.com/?p=141
-permalink: /2011/schwimmen-in-berlin/
 categories:
-  - Nonsense
+- Nonsense
+tags: []
+comments: []
 ---
 Hier:  
 <http://bit.ly/qthMCY>

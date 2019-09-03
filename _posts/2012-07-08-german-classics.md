@@ -1,16 +1,15 @@
 ---
 id: 214
 title: German Classics
-date: 2012-07-08T23:36:53+01:00
-author: admin
+date: '2012-07-08 23:36:53 +0000'
+permalink: "/2012/german-classics/"
 layout: post
-guid: http://www.lustauffotos.com/?p=214
-permalink: /2012/german-classics/
 categories:
-  - Nonsense
+- Nonsense
 tags:
-  - deutsch
-  - film
+- film
+- deutsch
+comments: []
 ---
 Hier 'ne Lister meiner Favorite-German-Movies:
 
@@ -36,4 +35,4 @@ Sommersturm
 Das experiment  
 ...
 
-[http://de.wikipedia.org/wiki/Liste\_bedeutender\_deutscher_Filme](http://de.wikipedia.org/wiki/Liste_bedeutender_deutscher_Filme)
+<http://de.wikipedia.org/wiki/Liste\_bedeutender\_deutscher\_Filme>

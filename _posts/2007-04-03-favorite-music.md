@@ -1,13 +1,13 @@
 ---
 id: 37
 title: Favorite Music
-date: 2007-04-03T13:02:38+01:00
-author: tobi
+date: '2007-04-03 13:02:38 +0000'
+permalink: "/2007/favorite-music/"
 layout: post
-guid: http://www.lustauffotos.com/blog/2007/04/03/favorite-music/
-permalink: /2007/favorite-music/
 categories:
-  - Nonsense
+- Nonsense
+tags: []
+comments: []
 ---
 Ganz oben auf meiner aktuellen Hitliste:
 

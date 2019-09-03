@@ -1,16 +1,15 @@
 ---
 id: 82
-title: Schwarzer, schöner, heisser Kaffee scheisse
-date: 2009-12-12T14:59:42+01:00
-author: admin
+title: Schwarzer, sch&ouml;ner, heisser Kaffee scheisse
+date: '2009-12-12 14:59:42 +0000'
+permalink: "/2009/schwarzer-schoner-heisser-kaffee-scheisse/"
 layout: post
-guid: http://www.lustauffotos.com/?p=82
-permalink: /2009/schwarzer-schoner-heisser-kaffee-scheisse/
 categories:
-  - Nonsense
+- Nonsense
 tags:
-  - kaffee
-  - kult
+- kaffee
+- kult
+comments: []
 ---
 <http://www.youtube.com/watch?v=lAUIHBAxbXY>
 

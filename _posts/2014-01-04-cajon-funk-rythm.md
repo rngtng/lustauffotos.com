@@ -1,16 +1,15 @@
 ---
 id: 315
 title: Cajon Funk Rythm
-date: 2014-01-04T00:59:17+01:00
-author: admin
+date: '2014-01-04 00:59:17 +0000'
+permalink: "/2014/cajon-funk-rythm/"
 layout: post
-guid: http://www.lustauffotos.com/?p=315
-permalink: /2014/cajon-funk-rythm/
 categories:
-  - Music
+- Music
 tags:
-  - cajon
-  - lernen
+- cajon
+- lernen
+comments: []
 ---
 <http://www.youtube.com/watch?v=If9FsXI7DRE>
 

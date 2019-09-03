@@ -1,13 +1,22 @@
 ---
 id: 14
 title: Getting political
-date: 2005-10-13T17:22:33+01:00
-author: tobi
+date: '2005-10-13 17:22:33 +0000'
+permalink: "/2005/getting-political/"
 layout: post
-guid: http://laf.jump-around.eu/wp/?p=16
-permalink: /2005/getting-political/
 categories:
-  - Nonsense
+- Nonsense
+tags: []
+comments:
+- id: 4
+  author: Tobi
+  author_email: ted@jump-around.eu
+  author_url: http://www.lustauffotos.de
+  date: '2006-11-14 20:52:08 +0000'
+  date_gmt: '2006-11-14 19:52:08 +0000'
+  content: |-
+    Daddy @ 16.10.2005 02:25 WST
+    Wer ist denn Magreth Fletcher?
 ---
 I just watched "Newshour" on TV. They talked about the german election. Here some 'nice' quotes:
 

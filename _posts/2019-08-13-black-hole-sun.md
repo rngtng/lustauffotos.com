@@ -1,12 +1,13 @@
 ---
 id: 789
 title: Black Hole Sun!
-date: 2019-08-13T12:34:02+01:00
-author: admin
+date: '2019-08-13 12:34:02 +0000'
+permalink: "/2019/black-hole-sun/"
 layout: post
-guid: http://www.lustauffotos.com/?p=789
-permalink: /2019/black-hole-sun/
 categories:
-  - WasTobiMag
+- WasTobiMag
+tags: []
+comments: []
 ---
-WOW!
+WOW!  
+<https://www.ted.com/talks/katie\_bouman\_what\_does\_a\_black\_hole\_look\_like>

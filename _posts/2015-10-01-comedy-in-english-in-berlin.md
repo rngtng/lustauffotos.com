@@ -1,21 +1,16 @@
 ---
 id: 556
 title: Comedy in English in Berlin
-date: 2015-10-01T13:32:31+01:00
-author: admin
+date: '2015-10-01 13:32:31 +0000'
+permalink: "/2015/comedy-in-english-in-berlin/"
 layout: post
-guid: http://www.lustauffotos.com/?p=556
-permalink: /2015/comedy-in-english-in-berlin/
 categories:
-  - Berlin
+- Berlin
 tags:
-  - berlin
-  - comedy
+- berlin
+- comedy
+comments: []
 ---
 Findet man hier:
 
-<blockquote class="wp-embedded-content" data-secret="fS95UaRicD">
-  <p>
-    <a href="https://comedyinenglish.de/">Home</a>
-  </p>
-</blockquote>
+<http://comedyinenglish.de>

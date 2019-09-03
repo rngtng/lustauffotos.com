@@ -1,12 +1,12 @@
 ---
 id: 470
 title: Learn music
-date: 2015-11-26T13:35:13+01:00
-author: tobi
+date: '2015-11-26 13:35:13 +0000'
+permalink: "/2015/learn-music/"
 layout: post
-guid: http://www.lustauffotos.com/?p=470
-permalink: /2015/learn-music/
 categories:
-  - Nonsense
+- Nonsense
+tags: []
+comments: []
 ---
 schönes tool zum Musik lernen: <http://www.meludia.com>

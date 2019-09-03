@@ -1,17 +1,16 @@
 ---
 id: 533
-title: 'Fundstück: Wohnwagon'
-date: 2015-02-10T13:43:05+01:00
-author: tobi
+title: 'Fundst&uuml;ck: Wohnwagon'
+date: '2015-02-10 13:43:05 +0000'
+permalink: "/2015/fundstueck-wohnwagon/"
 layout: post
-guid: http://www.lustauffotos.com/?p=533
-permalink: /2015/fundstueck-wohnwagon/
 categories:
-  - Netzwelt
+- Netzwelt
 tags:
-  - autark
-  - grün
-  - wohnen
+- wohnen
+- gr&uuml;n
+- autark
+comments: []
 ---
 von Lena: "So da haben wir es: der Wohnwagon macht hat alles was man zum Leben braucht und ist nebenbei ganz autark." (Video anschauen am Ende des Artikels)
 

@@ -1,15 +1,14 @@
 ---
 id: 252
 title: Basic greek
-date: 2012-06-23T05:01:36+01:00
-author: admin
+date: '2012-06-23 05:01:36 +0000'
+permalink: "/2012/basic-greek/"
 layout: post
-guid: http://www.lustauffotos.com/?p=252
-permalink: /2012/basic-greek/
 categories:
-  - Nonsense
+- Nonsense
 tags:
-  - griechisch
+- griechisch
+comments: []
 ---
 Das hab ich ausm Urlaub mitgebracht:
 

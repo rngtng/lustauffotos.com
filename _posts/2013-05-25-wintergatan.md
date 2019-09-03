@@ -1,13 +1,13 @@
 ---
 id: 281
 title: Wintergatan
-date: 2013-05-25T16:37:34+01:00
-author: admin
+date: '2013-05-25 16:37:34 +0000'
+permalink: "/2013/wintergatan/"
 layout: post
-guid: http://www.lustauffotos.com/?p=281
-permalink: /2013/wintergatan/
 categories:
-  - Music
+- Music
+tags: []
+comments: []
 ---
 <http://www.youtube.com/watch?v=SBK2AF-NdVA>  
 Hammer!

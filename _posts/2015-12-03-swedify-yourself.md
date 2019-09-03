@@ -1,17 +1,16 @@
 ---
 id: 646
 title: Swedify yourself!
-date: 2015-12-03T19:03:31+01:00
-author: admin
+date: '2015-12-03 19:03:31 +0000'
+permalink: "/2015/swedify-yourself/"
 layout: post
-guid: http://www.lustauffotos.com/?p=646
-permalink: /2015/swedify-yourself/
 categories:
-  - WasTobiMag
+- WasTobiMag
 tags:
-  - schwedisch
+- schwedisch
+comments: []
 ---
 Schönes Ding von Babbel:
 
-<img src="https://www.babbel.com/magazine/static/img/en/swedify_yourself.png" width="500" alt="" />  
+![](<https://www.babbel.com/magazine/static/img/en/swedify_yourself.png)>  
 <https://www.babbel.com/en/magazine/swedify-yourself>

@@ -1,12 +1,14 @@
 ---
 id: 737
 title: Mindfulness
-date: 2017-01-11T12:36:56+01:00
-author: admin
+date: '2017-01-11 12:36:56 +0000'
+permalink: "/2017/mindfulness/"
 layout: post
-guid: http://www.lustauffotos.com/?p=737
-permalink: /2017/mindfulness/
 categories:
-  - WasTobiMag
+- WasTobiMag
+tags: []
+comments: []
 ---
+<https://vimeo.com/152432001>
+
 [via Lena]

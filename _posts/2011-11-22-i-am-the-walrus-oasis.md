@@ -1,11 +1,12 @@
 ---
 id: 167
-title: 'I am the Walrus - Oasis'
-date: 2011-11-22T23:31:06+01:00
-author: tobi
+title: I am the Walrus - Oasis
+date: '2011-11-22 23:31:06 +0000'
+permalink: "/2011/i-am-the-walrus-oasis/"
 layout: post
-guid: http://www.lustauffotos.com/?p=167
-permalink: /2011/i-am-the-walrus-oasis/
 categories:
-  - Nonsense
+- Nonsense
+tags: []
+comments: []
 ---
+<http://www.youtube.com/watch?v=TxbVdqm6iaE>

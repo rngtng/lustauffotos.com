@@ -1,16 +1,15 @@
 ---
 id: 627
-title: '15 great movies not to be watched....'
-date: 2015-12-13T13:24:31+01:00
-author: admin
+title: 15 great movies not to be watched....
+date: '2015-12-13 13:24:31 +0000'
+permalink: "/2015/15-great-movies-not-to-be-watched/"
 layout: post
-guid: http://www.lustauffotos.com/?p=627
-permalink: /2015/15-great-movies-not-to-be-watched/
 categories:
-  - Nonsense
+- Nonsense
 tags:
-  - Movies
+- Movies
+comments: []
 ---
-Zum Glück ist das mit dem First Date schon gegessen 😉
+Zum Glück ist das mit dem First Date schon gegessen ;)
 
 <http://www.tasteofcinema.com/2015/15-great-movies-not-to-be-watched-on-a-first-date/2/>

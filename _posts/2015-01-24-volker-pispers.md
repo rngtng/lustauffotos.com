@@ -1,12 +1,14 @@
 ---
 id: 477
 title: Volker Pispers
-date: 2015-01-24T19:55:30+01:00
-author: tobi
+date: '2015-01-24 19:55:30 +0000'
+permalink: "/2015/volker-pispers/"
 layout: post
-guid: http://www.lustauffotos.com/?p=477
-permalink: /2015/volker-pispers/
 categories:
-  - Nonsense
+- Nonsense
+tags: []
+comments: []
 ---
+<https://www.youtube.com/watch?v=OpFNlNK8j20>
+
 [via christoph]

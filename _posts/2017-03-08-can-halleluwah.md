@@ -1,11 +1,12 @@
 ---
 id: 745
-title: 'Can - Halleluwah'
-date: 2017-03-08T20:44:05+01:00
-author: admin
+title: Can - Halleluwah
+date: '2017-03-08 20:44:05 +0000'
+permalink: "/2017/can-halleluwah/"
 layout: post
-guid: http://www.lustauffotos.com/?p=745
-permalink: /2017/can-halleluwah/
 categories:
-  - Music
+- Music
+tags: []
+comments: []
 ---
+<https://www.youtube.com/watch?v=2dZbAFmnRVA>

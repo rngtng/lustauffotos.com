@@ -1,20 +1,19 @@
 ---
 id: 487
-title: 'Globetrotter - DZG'
-date: 2015-01-29T16:28:10+01:00
-author: tobi
+title: Globetrotter - DZG
+date: '2015-01-29 16:28:10 +0000'
+permalink: "/2015/globetrotter-dzg/"
 layout: post
-guid: http://www.lustauffotos.com/?p=487
-permalink: /2015/globetrotter-dzg/
 categories:
-  - Nonsense
+- Nonsense
 tags:
-  - reisen
-  - travel
-  - urlaub
+- travel
+- urlaub
+- reisen
+comments: []
 ---
 Wenn Dich mal wieder das Fernweh packt:
 
 <https://www.globetrotter.org>
 
-War mir bis jetzt noch unbekannt, muss ich mal verfolgen 🙂
+War mir bis jetzt noch unbekannt, muss ich mal verfolgen :)

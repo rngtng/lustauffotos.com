@@ -1,13 +1,13 @@
 ---
 id: 350
 title: 'TED Talk: Quadcopters'
-date: 2014-01-06T00:59:46+01:00
-author: admin
+date: '2014-01-06 00:59:46 +0000'
+permalink: "/2014/ted-talk-quadcopters/"
 layout: post
-guid: http://www.lustauffotos.com/?p=350
-permalink: /2014/ted-talk-quadcopters/
 categories:
-  - Netzwelt
+- Netzwelt
 tags:
-  - quadcopters
+- quadcopters
+comments: []
 ---
+<iframe src="<http://embed.ted.com/talks/raffaello_d_andrea_the_astounding_athletic_power_of_quadcopters.html"> width="560" height="315" frameborder="0" scrolling="no" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>

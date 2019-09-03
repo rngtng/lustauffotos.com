@@ -1,18 +1,20 @@
 ---
 id: 428
 title: Highmaintenance
-date: 2014-05-16T23:32:42+01:00
-author: admin
+date: '2014-05-16 23:32:42 +0000'
+permalink: "/2014/highmaintenance/"
 layout: post
-guid: http://www.lustauffotos.com/?p=428
-permalink: /2014/highmaintenance/
 categories:
-  - New York
-  - Nonsense
+- Nonsense
+- New York
+tags: []
+comments: []
 ---
+<https://vimeo.com/channels/highmaintenance/64447342>
+
 &nbsp;
 
-Get'em all! <http://www.helpingyoumaintain.com>
+Get'em all!&nbsp;<http://www.helpingyoumaintain.com>
 
 &nbsp;
 

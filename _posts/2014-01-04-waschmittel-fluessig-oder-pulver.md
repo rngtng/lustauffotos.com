@@ -1,15 +1,14 @@
 ---
 id: 325
-title: Waschmittel flüssig oder Pulver
-date: 2014-01-04T14:20:19+01:00
-author: admin
+title: 'Waschmittel fl&uuml;ssig oder Pulver '
+date: '2014-01-04 14:20:19 +0000'
+permalink: "/2014/waschmittel-fluessig-oder-pulver/"
 layout: post
-guid: http://www.lustauffotos.com/?p=325
-permalink: /2014/waschmittel-fluessig-oder-pulver/
 categories:
-  - Netzwelt
+- Netzwelt
 tags:
-  - waschmittel
+- waschmittel
+comments: []
 ---
 Interessant!
 

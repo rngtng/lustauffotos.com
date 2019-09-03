@@ -1,13 +1,13 @@
 ---
 id: 719
 title: Bakken Baeck
-date: 2015-11-17T14:04:11+01:00
-author: admin
+date: '2015-11-17 14:04:11 +0000'
+permalink: "/2015/bakken-baeck/"
 layout: post
-guid: http://www.lustauffotos.com/?p=719
-permalink: /2015/bakken-baeck/
 categories:
-  - Netzwelt
+- Netzwelt
+tags: []
+comments: []
 ---
 Mal aufm Schirm haben: <https://bakkenbaeck.com>
 

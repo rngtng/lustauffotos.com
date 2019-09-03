@@ -1,13 +1,13 @@
 ---
 id: 25
-title: 'XMas &#38; Sonnenbrand'
-date: 2005-12-27T17:45:56+01:00
-author: tobi
+title: XMas &#38; Sonnenbrand
+date: '2005-12-27 17:45:56 +0000'
+permalink: "/2005/xmas-sonnenbrand/"
 layout: post
-guid: http://laf.jump-around.eu/wp/2005/12/27/xmas-sonnenbrand/
-permalink: /2005/xmas-sonnenbrand/
 categories:
-  - Australia
+- Australia
+tags: []
+comments: []
 ---
 Sorry fuer die lange Pause.  
 Ich bin nun in meine neue WG umgezogen. Es gefaellt mir dort super gut. Endlich habe ich Moebel, nette Mitbewohnerinnen (Miranda und Bec) und das gewohnte WG Leben. Sprich, es wird oefters mal gekocht, geredet und was unternommen. Gemeinschaftlich Leben eben. Leider habe ich aber keine Internet Flatrate mehr, was die Blog Pflege und den Pictureupload erschwert, aber auf der anderen Seite mich auch nicht so viel ablenkt!

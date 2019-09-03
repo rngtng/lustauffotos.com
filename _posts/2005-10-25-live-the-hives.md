@@ -1,16 +1,16 @@
 ---
 id: 19
-title: 'LIVE - The Hives'
-date: 2005-10-25T17:34:47+01:00
-author: tobi
+title: LIVE - The Hives
+date: '2005-10-25 17:34:47 +0000'
+permalink: "/2005/live-the-hives/"
 layout: post
-guid: http://laf.jump-around.eu/wp/2006/10/25/live-the-hives/
-permalink: /2005/live-the-hives/
 categories:
-  - Australia
+- Australia
+tags: []
+comments: []
 ---
 I just came back from THE HIVES - live concert in Perth Downtown (Metro City).  
-<img align="right" alt="The hives" hspace="7" src="/files/2006/11/album_tyrannosaurus.jpg" />  
+ ![The hives](/files/2006/11/album_tyrannosaurus.jpg)  
 It was awesome - one of my biggest show ever.  
 Really good oldstyle Rock'n'Roll. My ears are still droneing. Yeah!  
 It was the last show of the "Tyrannosaurus Hives Tour" and so they gave thier best. Actually they finished playing all songs of the album within an hour, but after that the kept on play the old ones.

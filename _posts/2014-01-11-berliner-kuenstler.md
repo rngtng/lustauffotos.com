@@ -1,12 +1,12 @@
 ---
 id: 363
-title: Berliner Künstler
-date: 2014-01-11T14:01:15+01:00
-author: admin
+title: Berliner K&uuml;nstler
+date: '2014-01-11 14:01:15 +0000'
+permalink: "/2014/berliner-kuenstler/"
 layout: post
-guid: http://www.lustauffotos.com/?p=363
-permalink: /2014/berliner-kuenstler/
 categories:
-  - Berlin
+- Berlin
+tags: []
+comments: []
 ---
 <http://berlinerkuenstler.de>

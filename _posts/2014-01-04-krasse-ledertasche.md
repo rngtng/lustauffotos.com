@@ -1,20 +1,17 @@
 ---
 id: 317
 title: Krasse Ledertasche
-date: 2014-01-04T01:02:57+01:00
-author: admin
+date: '2014-01-04 01:02:57 +0000'
+permalink: "/2014/krasse-ledertasche/"
 layout: post
-guid: http://www.lustauffotos.com/?p=317
-permalink: /2014/krasse-ledertasche/
 categories:
-  - Nonsense
+- Nonsense
 tags:
-  - leder
-  - tasche
-  - wishlist
+- leder
+- tasche
+- wishlist
+comments: []
 ---
-<p style="text-align: center;">
-  <img class="aligncenter" alt="" src="http://cdn.shopify.com/s/files/1/0043/9252/products/vintage-messenger.jpg?v=1345227792" width="480" height="320" />
-</p>
+![](<http://cdn.shopify.com/s/files/1/0043/9252/products/vintage-messenger.jpg?v=1345227792)>
 
-[Vintage Leather Messenger Bag](http://www.whippingpost.com/products/the-vintage-messenger)
+<http://www.whippingpost.com/products/the-vintage-messenger>

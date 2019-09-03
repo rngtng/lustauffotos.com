@@ -1,19 +1,18 @@
 ---
 id: 564
-title: 'Frühstücken &#038; Brunchen in Berlin'
-date: 2015-06-08T10:24:34+01:00
-author: admin
+title: Fr&uuml;hst&uuml;cken & Brunchen in Berlin
+date: '2015-06-08 10:24:34 +0000'
+permalink: "/2015/fruehstuecken-in-berlin/"
 layout: post
-guid: http://www.lustauffotos.com/?p=564
-permalink: /2015/fruehstuecken-in-berlin/
 categories:
-  - Berlin
+- Berlin
 tags:
-  - brunch
-  - buffet
-  - frühstück
+- fr&uuml;hst&uuml;ck
+- brunch
+- buffet
+comments: []
 ---
-<img class=" aligncenter" src="https://irs2.4sqi.net/img/general/width960/131807_Gc40okFSd5CQ87upBntNtKlCjjxQyY4AT5J-4pJ_L-0.jpg" alt="" width="339" height="254" />
+![](<https://irs2.4sqi.net/img/general/width960/131807_Gc40okFSd5CQ87upBntNtKlCjjxQyY4AT5J-4pJ_L-0.jpg)>
 
 Meine Favs:
 

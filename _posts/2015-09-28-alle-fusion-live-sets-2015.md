@@ -1,16 +1,17 @@
 ---
 id: 583
 title: Alle Fusion live Sets 2015
-date: 2015-09-28T13:18:08+01:00
-author: admin
+date: '2015-09-28 13:18:08 +0000'
+permalink: "/2015/alle-fusion-live-sets-2015/"
 layout: post
-guid: http://www.lustauffotos.com/?p=583
-permalink: /2015/alle-fusion-live-sets-2015/
 categories:
-  - Music
+- Music
 tags:
-  - "2015"
-  - festival
-  - fusion
+- fusion
+- festival
+- '2015'
+comments: []
 ---
 Hier: <http://www.kraftfuttermischwerk.de/blogg/playlist-fusion-sets-2015/>
+
+<https://soundcloud.com/das-kraftfuttermischwerk/sets/fusion-2015>

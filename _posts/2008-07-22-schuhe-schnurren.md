@@ -1,18 +1,35 @@
 ---
 id: 46
-title: Schuhe schnürren
-date: 2008-07-22T19:33:40+01:00
-author: tobi
+title: Schuhe schn&uuml;rren
+date: '2008-07-22 19:33:40 +0000'
+permalink: "/2008/schuhe-schnurren/"
 layout: post
-guid: http://www.lustauffotos.com/blog/?p=63
-permalink: /2008/schuhe-schnurren/
 categories:
-  - Nonsense
+- Nonsense
 tags:
-  - binden
-  - knoten
-  - schnürren
-  - schuh
+- binden
+- knoten
+- schn&uuml;rren
+- schuh
+comments:
+- id: 30
+  author: P&auml;hrlYn
+  author_email: badewanne28@gmail.com
+  author_url: ''
+  date: '2008-07-29 14:10:20 +0000'
+  date_gmt: '2008-07-29 13:10:20 +0000'
+  content: |-
+    Aber vorsicht,
+    die Gefahr lauert &uuml;berall!
+    Bitte nicht selbstverSch&uuml;rren ;-)
+- id: 45
+  author: Detl
+  author_email: bowek@web.de
+  author_url: ''
+  date: '2009-01-22 22:00:57 +0000'
+  date_gmt: '2009-01-22 21:00:57 +0000'
+  content: schn&uuml;rren, selbstversch&uuml;rren.... wei&szlig; bald gar nicht mehr
+    was da ge-, ver- oder eingeschn&uuml;rt werden soll
 ---
 Endlich, hier meine lang ersehnte Seite. Fancy Schuhe schnürren, hier steht's wie's geht:
 

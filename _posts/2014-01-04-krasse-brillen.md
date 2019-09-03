@@ -1,18 +1,17 @@
 ---
 id: 345
 title: Krasse Brillen
-date: 2014-01-04T16:17:19+01:00
-author: admin
+date: '2014-01-04 16:17:19 +0000'
+permalink: "/2014/krasse-brillen/"
 layout: post
-guid: http://www.lustauffotos.com/?p=345
-permalink: /2014/krasse-brillen/
 categories:
-  - WasTobiMag
+- WasTobiMag
 tags:
-  - brille
+- brille
+comments: []
 ---
-![](http://www.owloptics.com/images/article/3/7/eins_palisander_glasses_f2.jpg)
+![](<http://www.owloptics.com/images/article/3/7/eins_palisander_glasses_f2.jpg)>
 
-Wow, schicke Brillen bei OWL: <http://www.owloptics.com/en>
+Wow, schicke Brillen bei OWL:&nbsp;<http://www.owloptics.com/en>
 
-Ich hab meine aktuelle ' L.G.R. Suez' bei [Brillenschneiderei](http://www.brillenschneiderei.de/){.broken_link} in Berlin gekauft.
+Ich hab meine aktuelle ' L.G.R. Suez' bei [Brillenschneiderei](<http://www.brillenschneiderei.de/)&nbsp;in> Berlin gekauft.

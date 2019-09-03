@@ -1,17 +1,16 @@
 ---
 id: 577
 title: Raus aus Berlin!
-date: 2015-09-26T21:29:50+01:00
-author: admin
+date: '2015-09-26 21:29:50 +0000'
+permalink: "/2015/raus-aus-berlin/"
 layout: post
-guid: http://www.lustauffotos.com/?p=577
-permalink: /2015/raus-aus-berlin/
 categories:
-  - Berlin
+- Berlin
 tags:
-  - fahrrad
-  - natur
-  - raus
+- fahrrad
+- natur
+- raus
+comments: []
 ---
 Tolles Projekt um der Stadt zu entkommen:
 

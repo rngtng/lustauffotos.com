@@ -1,18 +1,17 @@
 ---
 id: 438
 title: A Whiter Shade Of Pale
-date: 2014-05-23T20:38:43+01:00
-author: admin
+date: '2014-05-23 20:38:43 +0000'
+permalink: "/2014/a-whiter-shade-of-pale/"
 layout: post
-guid: http://www.lustauffotos.com/?p=438
-permalink: /2014/a-whiter-shade-of-pale/
 categories:
-  - New York
+- New York
 tags:
-  - cafe
+- cafe
+comments: []
 ---
 Sitz ich hier im Kaffee und hör doch 'ne Cover von Helges Söngchen 'A Whiter Shade Of Pale'. War aber bei weitem nicht so gut wie das Original:
 
-
+<https://www.youtube.com/watch?v=kiYqPSDA9BQ&feature=k>
 
 Lalalalalalalaaaaa, la, alalaaaalala, lalalaa

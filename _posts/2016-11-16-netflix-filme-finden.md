@@ -1,13 +1,13 @@
 ---
 id: 696
 title: Netflix Filme finden
-date: 2016-11-16T21:14:56+01:00
-author: admin
+date: '2016-11-16 21:14:56 +0000'
+permalink: "/2016/netflix-filme-finden/"
 layout: post
-guid: http://www.lustauffotos.com/?p=696
-permalink: /2016/netflix-filme-finden/
 categories:
-  - Netzwelt
+- Netzwelt
+tags: []
+comments: []
 ---
 Mal richtig gemacht: <http://flicksurfer.com>
 

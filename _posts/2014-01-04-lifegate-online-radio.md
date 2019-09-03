@@ -1,15 +1,14 @@
 ---
 id: 332
 title: LifeGate Online Radio
-date: 2014-01-04T15:07:50+01:00
-author: admin
+date: '2014-01-04 15:07:50 +0000'
+permalink: "/2014/lifegate-online-radio/"
 layout: post
-guid: http://www.lustauffotos.com/?p=332
-permalink: /2014/lifegate-online-radio/
 categories:
-  - Netzwelt
+- Netzwelt
 tags:
-  - radio
+- radio
+comments: []
 ---
 Via Lena:
 

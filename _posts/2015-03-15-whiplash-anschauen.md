@@ -1,17 +1,19 @@
 ---
 id: 543
-title: 'Whiplash - Anschauen!'
-date: 2015-03-15T14:29:11+01:00
-author: admin
+title: Whiplash - Anschauen!
+date: '2015-03-15 14:29:11 +0000'
+permalink: "/2015/whiplash-anschauen/"
 layout: post
-guid: http://www.lustauffotos.com/?p=543
-permalink: /2015/whiplash-anschauen/
 categories:
-  - Music
+- Music
 tags:
-  - jazz
-  - Whiplash
+- Whiplash
+- jazz
+comments: []
 ---
+<https://www.youtube.com/watch?v=7d\_jQycdQGo>
+
 Ic hab mir kürzlich Whiplash angeschaut. Sehr interessantes Ding. Klar, dramaturgisch übertrieben, ich hoffe so lernt keiner Jazz, aber hey, Hollywood: <http://www.imdb.com/title/tt2582802/>
 
-Naja danach konnte ich es auch nicht lassen bissl Buddy Rich zu stalken, und das beste ist wohl das, vor allem in diesem Alter!? WTF!
+Naja danach konnte ich es auch nicht lassen bissl Buddy Rich zu stalken, und das beste ist wohl das, vor allem in diesem Alter!? WTF!  
+<https://www.youtube.com/watch?v=9esWG6A6g-k>

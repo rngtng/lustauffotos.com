@@ -23,13 +23,12 @@ loader = FrontMatterParser::Loader::Yaml.new(whitelist_classes: [Time])
 Dir. glob('_posts/*.md').each do |filename|
   puts filename
   parsed = FrontMatterParser::Parser.parse_file(filename, loader: loader)
-  content = CGI.unescapeHTML(parsed.content).strip
+  # content = CGI.unescapeHTML(parsed.content).strip
 
   filename2 = filename.gsub('.md', '.html')
-  puts filename2
+  # puts filename2
   string = File.read(filename2)
   parsed2 =  FrontMatterParser::Parser.new(:md).call(string)
-  # content2 = Rinku.auto_link(parsed2.content)
   content2 = ReverseMarkdown.convert(parsed2.content).strip
   content2 = content2.gsub(/(https?:\/\/[\S]+)/, '<\1>')
 
@@ -39,12 +38,12 @@ Dir. glob('_posts/*.md').each do |filename|
       'id', 'title', 'date', 'permalink', 'layout', 'categories', 'tags', 'comments'
     ).to_yaml)
     file.write("---\n")
-    content3 = if content != content2
-                 puts Differ.diff_by_char(content, content2)
-                 gets.strip == 1 ? content : content2
-               else
-                 content
-              end
-    file.write(content3)
+    # content3 = if content != content2
+    #              puts Differ.diff_by_char(content, content2)
+    #              gets.strip == 1 ? content : content2
+    #            else
+    #              content
+    #           end
+    file.write(content2)
   end
 end
