@@ -10,7 +10,7 @@ tags:
 - wohung
 comments: []
 ---
-[![image](</files/2014/05/image.png)](/files/2014/05/image.png)>
+[![image](/files/2014/05/image.png)](/files/2014/05/image.png)
 
 &nbsp;
 

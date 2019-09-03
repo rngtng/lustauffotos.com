@@ -9,7 +9,7 @@ categories:
 tags: []
 comments: []
 ---
-![](</files/2011/12/Screen-Shot-2011-12-05-at-16.40.071.png> "Screen Shot 2011-12-05 at 16.40.07")
+![](/files/2011/12/Screen-Shot-2011-12-05-at-16.40.071.png "Screen Shot 2011-12-05 at 16.40.07")
 
 ZDF war da und hat meine Haartracht eingefangen... LOL!
 

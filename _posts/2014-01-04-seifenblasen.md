@@ -16,7 +16,7 @@ Muss ich mal ausprobieren:
 
 &nbsp;
 
-[![dyi](</files/2014/01/dyi.jpg)](/files/2014/01/dyi.jpg)>
+[![dyi](/files/2014/01/dyi.jpg)](/files/2014/01/dyi.jpg)
 
 &nbsp;
 

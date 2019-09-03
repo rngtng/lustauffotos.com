@@ -15,6 +15,6 @@ tags:
 comments: []
 ---
 Ja:  
-[![marei](</files/2009/09/marei.png)](http://www.zdf.de/ZDFmediathek/content/831236?inPopup=truea)>
+[![marei](/files/2009/09/marei.png)](<http://www.zdf.de/ZDFmediathek/content/831236?inPopup=truea)>
 
 Die ZDF Sendung "Volle Kanne" hat die junge Familie besucht und berichtet über die Speiseröhrenverengung von Marei. Sehr schön!

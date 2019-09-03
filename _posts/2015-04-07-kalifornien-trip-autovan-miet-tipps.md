@@ -14,7 +14,7 @@ tags:
 - mieten
 comments: []
 ---
-[![Screen Shot 2015-04-07 at 10.51.10](</files/2015/04/Screen-Shot-2015-04-07-at-10.51.10-300x154.png)](/files/2015/04/Screen-Shot-2015-04-07-at-10.51.10.png)>  
+[![Screen Shot 2015-04-07 at 10.51.10](/files/2015/04/Screen-Shot-2015-04-07-at-10.51.10-300x154.png)](/files/2015/04/Screen-Shot-2015-04-07-at-10.51.10.png)  
 Hier die Liste von Van/Motorhome/Car Rentals für unseren Kalifornien Trip 2014.
 
 Letztlich hatten wir bei <http://www.lostcampersusa.com> ausgeliehen. War ganz ok nix fancy aber solide und guter Preis. Glaub das waren so 50$ pro Tag..

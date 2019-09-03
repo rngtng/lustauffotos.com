@@ -20,12 +20,16 @@ Differ.format = :color
 
 loader = FrontMatterParser::Loader::Yaml.new(whitelist_classes: [Time])
 
-Dir. glob('_old/_posts/*.md').each do |filename|
+Dir. glob('_old/_posts/*.html').each do |filename2|
+  filename = filename2.gsub('.html', '.md')
   puts filename
-  parsed = FrontMatterParser::Parser.parse_file(filename, loader: loader)
-  # content = CGI.unescapeHTML(parsed.content).strip
+  parsed = begin
+    FrontMatterParser::Parser.parse_file(filename, loader: loader).front_matter
+    # content = CGI.unescapeHTML(parsed.content).strip
+  rescue
+    {}
+  end
 
-  filename2 = filename.gsub('.md', '.html')
   # puts filename2
   string = File.read(filename2)
   parsed2 =  FrontMatterParser::Parser.new(:md).call(string)
@@ -35,7 +39,7 @@ Dir. glob('_old/_posts/*.md').each do |filename|
   # binding.pry  if content2.include?('\_')
   content2 = content2.gsub('\_', '_')
 
-  front_matter = parsed.front_matter.merge(parsed2.front_matter)
+  front_matter = parsed.merge(parsed2.front_matter)
   File.open("_posts/#{File.basename(filename)}", 'w') do |file|
     file.write(front_matter.slice(
       'id', 'title', 'date', 'permalink', 'layout', 'categories', 'tags', 'comments'

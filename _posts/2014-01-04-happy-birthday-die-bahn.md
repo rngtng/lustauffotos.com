@@ -10,7 +10,7 @@ tags:
 - bahn
 comments: []
 ---
-[![BahnWTF](</files/2014/01/BahnWTF.png)](/files/2014/01/BahnWTF.png)>
+[![BahnWTF](/files/2014/01/BahnWTF.png)](/files/2014/01/BahnWTF.png)
 
 &nbsp;
 

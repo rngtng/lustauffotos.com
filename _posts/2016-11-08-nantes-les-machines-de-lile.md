@@ -9,7 +9,7 @@ categories:
 tags: []
 comments: []
 ---
-[![screen-shot-2016-11-08-at-10-54-18](</files/2016/11/Screen-Shot-2016-11-08-at-10.54.18-300x195.png)](/files/2016/11/Screen-Shot-2016-11-08-at-10.54.18.png)>
+[![screen-shot-2016-11-08-at-10-54-18](/files/2016/11/Screen-Shot-2016-11-08-at-10.54.18-300x195.png)](/files/2016/11/Screen-Shot-2016-11-08-at-10.54.18.png)
 
 Einer unserer Highlights auf der Elternzeittour: Les Machines de l’île in Nantes:
 

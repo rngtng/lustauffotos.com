@@ -12,4 +12,4 @@ tags:
 - tempelhof
 comments: []
 ---
-![](</files/2011/04/IMG_0211.jpg> "mo")
+![](/files/2011/04/IMG_0211.jpg "mo")
