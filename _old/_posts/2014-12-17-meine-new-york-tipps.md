@@ -13,7 +13,7 @@ tags:
   - event
   - tipp
 ---
-<img class="size-full wp-image-496 aligncenter" src="/files/2014/12/IMG_2411.jpg" alt="IMG_2411" width="500" height="375" srcset="http://www.lustauffotos.com/files/2014/12/IMG_2411.jpg 500w, http://www.lustauffotos.com/files/2014/12/IMG_2411-300x225.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" />
+<img class="size-full wp-image-496 aligncenter" src="/files/2014/12/IMG_2411.jpg" alt="IMG_2411" width="500" height="375" srcset="/files/2014/12/IMG_2411.jpg 500w, /files/2014/12/IMG_2411-300x225.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" />
 
 Ich werde in letzter Zeit öfters nach New York Tipp gefragt. Ui da gibt's sooo viel zu Empfehlen, out-of-my-head her jedoch das Wichtigste:
 

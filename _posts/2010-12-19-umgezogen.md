@@ -28,4 +28,4 @@ comments:
   date_gmt: '2010-12-27 11:43:38 +0000'
   content: Ich mag Karls Bart! ;)
 ---
-[![](<http://www.lustauffotos.com/files/2010/12/tobi-in-b.gif> "tobi-in-b")](<http://www.lustauffotos.com/files/2010/12/tobi-in-b.gif)>
+[![](</files/2010/12/tobi-in-b.gif> "tobi-in-b")](</files/2010/12/tobi-in-b.gif)>

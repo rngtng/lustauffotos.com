@@ -10,6 +10,6 @@ tags:
 - jazz
 comments: []
 ---
-<https://www.youtube.com/watch?v=kk0WRHV\_vt8>
+<https://www.youtube.com/watch?v=kk0WRHV_vt8>
 
 via Christoph

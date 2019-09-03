@@ -15,7 +15,7 @@ comments: []
 ![](<http://www.firefly-power.de/Fahrrad-Symbol_01_KMJ.png)>  
 .. kauft man hier:
 
-<http://www.berliner-fahrradlaeden.de/portal\_a.html>
+<http://www.berliner-fahrradlaeden.de/portal_a.html>
 
 Rad Spannerei - <http://www.rad-spannerei.de>
 
@@ -29,7 +29,7 @@ Fahrrad Konsum - ??
 Knast Fahrrad - <http://www.stattknast.de/index.php?id=21,33,0,0,1,0>  
 Fietswinkel, Neukölln - <http://vimeo.com/22103603>
 
-<http://www.fahrradmarkt-berlin.de/termine\_gebrauchtes\_fahrrad\_berlin.html>
+<http://www.fahrradmarkt-berlin.de/termine_gebrauchtes_fahrrad_berlin.html>
 
 Auf der Fahrradversteigerung war ich auch, jedoch waren die 300 Räder in eher schlechtem zustand und das Interesse sehr gross. Ein Rad das ich  
 für max 80 EUR gekauft hätte ging für 220 weg. Verrückt.  

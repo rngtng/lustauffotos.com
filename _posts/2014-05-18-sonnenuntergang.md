@@ -9,4 +9,4 @@ categories:
 tags: []
 comments: []
 ---
-[![image](<http://www.lustauffotos.com/files/2014/05/image-1024x221.jpeg)](http://www.lustauffotos.com/files/2014/05/image.jpeg)>
+[![image](</files/2014/05/image-1024x221.jpeg)](/files/2014/05/image.jpeg)>

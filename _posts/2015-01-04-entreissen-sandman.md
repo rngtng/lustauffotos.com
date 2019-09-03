@@ -11,6 +11,6 @@ comments: []
 ---
 Omg Metallica so Young!!!
 
-<http://m.youtube.com/watch?v=\_W7wqQwa-TU>
+<http://m.youtube.com/watch?v=_W7wqQwa-TU>
 
 Funfact: damit hab ich mal den dancefloor leer geräumt #pseudoDJ

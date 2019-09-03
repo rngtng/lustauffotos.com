@@ -37,7 +37,7 @@ hOW ABOUT THAT?
 
 Curtiepie about 5 months ago  
 Pretty good! Have more food:  
-1. Egg Cream – \*Eisenberg’s Sandwich Shop, Lexington Candy Shop, \*Gem Spa & Cosmopolitan Cafe. <http://en.wikipedia.org/wiki/Egg\_cream>  
+1. Egg Cream – \*Eisenberg’s Sandwich Shop, Lexington Candy Shop, \*Gem Spa & Cosmopolitan Cafe. <http://en.wikipedia.org/wiki/Egg_cream>  
 2. Bagels/Bialys – \*Daniel’s, Murray’s, \*Bagel Express, \*Zucker’s, Tal Bagels, \*Kossar’s Bialys or Ess-a-Bagel.  
 3. Hot Dogs – from the cart or Crif Dogs, Japadog and the original Nathan’s at Coney Island.  
 Or from Gray’s Papaya with an Orange Julius drink. Also known as DWDs (dirty water dogs).  

@@ -9,7 +9,7 @@ categories:
 tags: []
 comments: []
 ---
-<http://www.ted.com/playlists/218/get\_in\_shape\_for\_real\_this\_ti>
+<http://www.ted.com/playlists/218/get_in_shape_for_real_this_ti>
 
 un noch mehr: Most Popluar Talks:  
- <http://www.ted.com/playlists/171/the\_most\_popular\_talks\_of\_all>
+ <http://www.ted.com/playlists/171/the_most_popular_talks_of_all>

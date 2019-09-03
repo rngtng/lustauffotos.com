@@ -9,7 +9,7 @@ permalink: /2011/zdf-soundcloud-und-so/
 categories:
   - Nonsense
 ---
-<img class="aligncenter size-full wp-image-175" title="Screen Shot 2011-12-05 at 16.40.07" src="http://www.lustauffotos.com/files/2011/12/Screen-Shot-2011-12-05-at-16.40.071.png" alt="" width="547" height="309" srcset="http://www.lustauffotos.com/files/2011/12/Screen-Shot-2011-12-05-at-16.40.071.png 912w, http://www.lustauffotos.com/files/2011/12/Screen-Shot-2011-12-05-at-16.40.071-300x169.png 300w" sizes="(max-width: 547px) 100vw, 547px" />
+<img class="aligncenter size-full wp-image-175" title="Screen Shot 2011-12-05 at 16.40.07" src="/files/2011/12/Screen-Shot-2011-12-05-at-16.40.071.png" alt="" width="547" height="309" srcset="/files/2011/12/Screen-Shot-2011-12-05-at-16.40.071.png 912w, /files/2011/12/Screen-Shot-2011-12-05-at-16.40.071-300x169.png 300w" sizes="(max-width: 547px) 100vw, 547px" />
 
 ZDF war da und hat meine Haartracht eingefangen... LOL!
 

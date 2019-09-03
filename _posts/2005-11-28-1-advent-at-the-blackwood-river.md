@@ -49,4 +49,4 @@ Here a nice picture of the river:
  ![Blackwoodriver Map](/files/2006/11/blackwood.gif)
 
 More on this:  
-<http://en.wikipedia.org/wiki/Blackwood\_River>
+<http://en.wikipedia.org/wiki/Blackwood_River>

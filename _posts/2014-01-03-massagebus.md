@@ -11,6 +11,6 @@ tags:
 - massagebus
 comments: []
 ---
-[![Screen Shot 2014-01-03 at 19.29.31](<http://www.lustauffotos.com/files/2014/01/Screen-Shot-2014-01-03-at-19.29.31.png)](http://www.lustauffotos.com/files/2014/01/Screen-Shot-2014-01-03-at-19.29.31.png)>
+[![Screen Shot 2014-01-03 at 19.29.31](</files/2014/01/Screen-Shot-2014-01-03-at-19.29.31.png)](/files/2014/01/Screen-Shot-2014-01-03-at-19.29.31.png)>
 
 Gerade alten Flyer von der Fusion gefunden. Das muss man sich merken: <http://massagebus.de> :)

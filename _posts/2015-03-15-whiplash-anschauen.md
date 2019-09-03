@@ -11,7 +11,7 @@ tags:
 - jazz
 comments: []
 ---
-<https://www.youtube.com/watch?v=7d\_jQycdQGo>
+<https://www.youtube.com/watch?v=7d_jQycdQGo>
 
 Ic hab mir kürzlich Whiplash angeschaut. Sehr interessantes Ding. Klar, dramaturgisch übertrieben, ich hoffe so lernt keiner Jazz, aber hey, Hollywood: <http://www.imdb.com/title/tt2582802/>
 

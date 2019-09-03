@@ -14,5 +14,5 @@ Today we had beautiful weather, so I went on an cycletour through Perth, especia
  ![Perth Skyline](/files/2006/11/skyline.jpg)
 
 More on Perth:  
-<http://en.wikipedia.org/wiki/Perth%2C\_Western\_Australia>  
-<http://en.wikipedia.org/wiki/Kings\_Park>
+<http://en.wikipedia.org/wiki/Perth%2C_Western_Australia>  
+<http://en.wikipedia.org/wiki/Kings_Park>

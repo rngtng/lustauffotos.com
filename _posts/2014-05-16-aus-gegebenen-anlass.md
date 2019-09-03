@@ -10,7 +10,7 @@ tags:
 - wohung
 comments: []
 ---
-[![image](<http://www.lustauffotos.com/files/2014/05/image.png)](http://www.lustauffotos.com/files/2014/05/image.png)>
+[![image](</files/2014/05/image.png)](/files/2014/05/image.png)>
 
 &nbsp;
 

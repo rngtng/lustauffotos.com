@@ -15,4 +15,4 @@ Sehr schick:
 
 Und dann auch noch das, immer noch einer meiner Favorites:
 
-<http://thump.vice.com/en\_uk/article/fatboy-slim-on-the-making-of-his-classic-hit-the-rockafeller-skank>
+<http://thump.vice.com/en_uk/article/fatboy-slim-on-the-making-of-his-classic-hit-the-rockafeller-skank>

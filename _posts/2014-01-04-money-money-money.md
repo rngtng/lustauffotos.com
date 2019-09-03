@@ -40,4 +40,4 @@ Diese Seiten mal im Auge behalten :)
 &nbsp;
 
 Und ein Paper von Lena:  
-<http://instituteforstrategicclarity.org/wp-content/uploads/2013/05/ISC\_Strings-of-Agreements-with-Money-020910.pdf>
+<http://instituteforstrategicclarity.org/wp-content/uploads/2013/05/ISC_Strings-of-Agreements-with-Money-020910.pdf>

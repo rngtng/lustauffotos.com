@@ -17,6 +17,6 @@ comments:
   date_gmt: '2009-08-19 21:02:04 +0000'
   content: Seid wann kannst du eigentlich Internetz? :-)
 ---
-![twitter](<http://www.lustauffotos.com/files/2009/06/twitter.png)>
+![twitter](</files/2009/06/twitter.png)>
 
 Follow me [here](<http://twitter.com/tobitobes).>

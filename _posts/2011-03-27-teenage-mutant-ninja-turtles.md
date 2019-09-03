@@ -11,7 +11,7 @@ tags:
 - pinnball
 comments: []
 ---
-[![](<http://www.lustauffotos.com/files/2011/03/IMG_9876.jpg> "IMG\_9876")](<http://www.lustauffotos.com/files/2011/03/IMG_9876.jpg)>
+[![](</files/2011/03/IMG_9876.jpg> "IMG_9876")](</files/2011/03/IMG_9876.jpg)>
 
 Haben Nachwuchs.. :-)
 

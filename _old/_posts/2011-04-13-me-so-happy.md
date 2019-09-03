@@ -14,5 +14,5 @@ tags:
   - tempelhof
 ---
 <p style="text-align: center;">
-  <img class="aligncenter size-full wp-image-116" title="mo" src="http://www.lustauffotos.com/files/2011/04/IMG_0211.jpg" alt="" width="480" height="480" srcset="http://www.lustauffotos.com/files/2011/04/IMG_0211.jpg 600w, http://www.lustauffotos.com/files/2011/04/IMG_0211-150x150.jpg 150w, http://www.lustauffotos.com/files/2011/04/IMG_0211-300x300.jpg 300w" sizes="(max-width: 480px) 100vw, 480px" />
+  <img class="aligncenter size-full wp-image-116" title="mo" src="/files/2011/04/IMG_0211.jpg" alt="" width="480" height="480" srcset="/files/2011/04/IMG_0211.jpg 600w, /files/2011/04/IMG_0211-150x150.jpg 150w, /files/2011/04/IMG_0211-300x300.jpg 300w" sizes="(max-width: 480px) 100vw, 480px" />
 </p>

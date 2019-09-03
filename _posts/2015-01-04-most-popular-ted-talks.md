@@ -9,4 +9,4 @@ categories:
 tags: []
 comments: []
 ---
-<http://www.ted.com/playlists/171/the\_most\_popular\_talks\_of\_all>
+<http://www.ted.com/playlists/171/the_most_popular_talks_of_all>

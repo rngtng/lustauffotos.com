@@ -9,6 +9,6 @@ categories:
 tags: []
 comments: []
 ---
-Do you know Soul Coughing -\> <http://en.wikipedia.org/wiki/Soul\_Coughing> - Damn great!
+Do you know Soul Coughing -\> <http://en.wikipedia.org/wiki/Soul_Coughing> - Damn great!
 
-And (!) now I know what my music taste is called: 'Big Beat' <http://en.wikipedia.org/wiki/Big\_beat> - good to know! ;-)
+And (!) now I know what my music taste is called: 'Big Beat' <http://en.wikipedia.org/wiki/Big_beat> - good to know! ;-)

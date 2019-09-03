@@ -16,6 +16,6 @@ tags:
   - zdf
 ---
 Ja:  
-[<img src="http://www.lustauffotos.com/files/2009/09/marei.png" alt="marei" width="500" height="317" class="aligncenter size-full wp-image-71" srcset="http://www.lustauffotos.com/files/2009/09/marei.png 500w, http://www.lustauffotos.com/files/2009/09/marei-300x190.png 300w" sizes="(max-width: 500px) 100vw, 500px" />](http://www.zdf.de/ZDFmediathek/content/831236?inPopup=truea){.broken_link}
+[<img src="/files/2009/09/marei.png" alt="marei" width="500" height="317" class="aligncenter size-full wp-image-71" srcset="/files/2009/09/marei.png 500w, /files/2009/09/marei-300x190.png 300w" sizes="(max-width: 500px) 100vw, 500px" />](http://www.zdf.de/ZDFmediathek/content/831236?inPopup=truea){.broken_link}
 
 Die ZDF Sendung "Volle Kanne" hat die junge Familie besucht und berichtet über die Speiseröhrenverengung von Marei. Sehr schön!

@@ -9,7 +9,7 @@ permalink: /2016/nantes-les-machines-de-lile/
 categories:
   - WasTobiMag
 ---
-[<img src="http://www.lustauffotos.com/files/2016/11/Screen-Shot-2016-11-08-at-10.54.18-300x195.png" alt="screen-shot-2016-11-08-at-10-54-18" width="300" height="195" class="aligncenter size-medium wp-image-672" srcset="http://www.lustauffotos.com/files/2016/11/Screen-Shot-2016-11-08-at-10.54.18-300x195.png 300w, http://www.lustauffotos.com/files/2016/11/Screen-Shot-2016-11-08-at-10.54.18-768x499.png 768w, http://www.lustauffotos.com/files/2016/11/Screen-Shot-2016-11-08-at-10.54.18.png 879w" sizes="(max-width: 300px) 100vw, 300px" />](http://www.lustauffotos.com/files/2016/11/Screen-Shot-2016-11-08-at-10.54.18.png)
+[<img src="/files/2016/11/Screen-Shot-2016-11-08-at-10.54.18-300x195.png" alt="screen-shot-2016-11-08-at-10-54-18" width="300" height="195" class="aligncenter size-medium wp-image-672" srcset="/files/2016/11/Screen-Shot-2016-11-08-at-10.54.18-300x195.png 300w, /files/2016/11/Screen-Shot-2016-11-08-at-10.54.18-768x499.png 768w, /files/2016/11/Screen-Shot-2016-11-08-at-10.54.18.png 879w" sizes="(max-width: 300px) 100vw, 300px" />](/files/2016/11/Screen-Shot-2016-11-08-at-10.54.18.png)
 
 Einer unserer Highlights auf der Elternzeittour: Les Machines de l’île in Nantes:
 

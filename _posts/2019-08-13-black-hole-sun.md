@@ -10,4 +10,4 @@ tags: []
 comments: []
 ---
 WOW!  
-<https://www.ted.com/talks/katie\_bouman\_what\_does\_a\_black\_hole\_look\_like>
+<https://www.ted.com/talks/katie_bouman_what_does_a_black_hole_look_like>

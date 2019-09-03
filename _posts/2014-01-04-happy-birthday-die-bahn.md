@@ -10,7 +10,7 @@ tags:
 - bahn
 comments: []
 ---
-[![BahnWTF](<http://www.lustauffotos.com/files/2014/01/BahnWTF.png)](http://www.lustauffotos.com/files/2014/01/BahnWTF.png)>
+[![BahnWTF](</files/2014/01/BahnWTF.png)](/files/2014/01/BahnWTF.png)>
 
 &nbsp;
 

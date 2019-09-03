@@ -20,7 +20,7 @@ Differ.format = :color
 
 loader = FrontMatterParser::Loader::Yaml.new(whitelist_classes: [Time])
 
-Dir. glob('_posts/*.md').each do |filename|
+Dir. glob('_old/_posts/*.md').each do |filename|
   puts filename
   parsed = FrontMatterParser::Parser.parse_file(filename, loader: loader)
   # content = CGI.unescapeHTML(parsed.content).strip
@@ -29,11 +29,14 @@ Dir. glob('_posts/*.md').each do |filename|
   # puts filename2
   string = File.read(filename2)
   parsed2 =  FrontMatterParser::Parser.new(:md).call(string)
-  content2 = ReverseMarkdown.convert(parsed2.content).strip
+  content2 = parsed2.content
+  content2 = ReverseMarkdown.convert(content2).strip
   content2 = content2.gsub(/(https?:\/\/[\S]+)/, '<\1>')
+  # binding.pry  if content2.include?('\_')
+  content2 = content2.gsub('\_', '_')
 
   front_matter = parsed.front_matter.merge(parsed2.front_matter)
-  File.open("new/#{filename}", 'w') do |file|
+  File.open("_posts/#{File.basename(filename)}", 'w') do |file|
     file.write(front_matter.slice(
       'id', 'title', 'date', 'permalink', 'layout', 'categories', 'tags', 'comments'
     ).to_yaml)

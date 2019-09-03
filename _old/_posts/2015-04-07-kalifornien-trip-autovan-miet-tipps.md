@@ -15,7 +15,7 @@ tags:
   - urlaub
   - van
 ---
-[<img class="aligncenter  wp-image-549" src="http://www.lustauffotos.com/files/2015/04/Screen-Shot-2015-04-07-at-10.51.10-300x154.png" alt="Screen Shot 2015-04-07 at 10.51.10" width="513" height="263" srcset="http://www.lustauffotos.com/files/2015/04/Screen-Shot-2015-04-07-at-10.51.10-300x154.png 300w, http://www.lustauffotos.com/files/2015/04/Screen-Shot-2015-04-07-at-10.51.10.png 955w" sizes="(max-width: 513px) 100vw, 513px" />](http://www.lustauffotos.com/files/2015/04/Screen-Shot-2015-04-07-at-10.51.10.png)  
+[<img class="aligncenter  wp-image-549" src="/files/2015/04/Screen-Shot-2015-04-07-at-10.51.10-300x154.png" alt="Screen Shot 2015-04-07 at 10.51.10" width="513" height="263" srcset="/files/2015/04/Screen-Shot-2015-04-07-at-10.51.10-300x154.png 300w, /files/2015/04/Screen-Shot-2015-04-07-at-10.51.10.png 955w" sizes="(max-width: 513px) 100vw, 513px" />](/files/2015/04/Screen-Shot-2015-04-07-at-10.51.10.png)  
 Hier die Liste von Van/Motorhome/Car Rentals für unseren Kalifornien Trip 2014.
 
 Letztlich hatten wir bei <http://www.lostcampersusa.com> ausgeliehen. War ganz ok nix fancy aber solide und guter Preis. Glaub das waren so 50$ pro Tag..

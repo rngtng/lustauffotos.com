@@ -64,4 +64,4 @@ Zeit:
 <http://webexhibits.org/daylightsaving/g.html>
 
 Zeitzonen/Umstellung:  
-<http://www.australien-individuell.com/au\_info.html#Zeitunterschied>
+<http://www.australien-individuell.com/au_info.html#Zeitunterschied>

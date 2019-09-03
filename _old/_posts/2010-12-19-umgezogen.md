@@ -13,4 +13,4 @@ tags:
   - neukölln
   - umzug
 ---
-[<img class="aligncenter size-full wp-image-101" title="tobi-in-b" src="http://www.lustauffotos.com/files/2010/12/tobi-in-b.gif" alt="" width="540" height="450" srcset="http://www.lustauffotos.com/files/2010/12/tobi-in-b.gif 540w, http://www.lustauffotos.com/files/2010/12/tobi-in-b-300x250.gif 300w" sizes="(max-width: 540px) 100vw, 540px" />](http://www.lustauffotos.com/files/2010/12/tobi-in-b.gif)
+[<img class="aligncenter size-full wp-image-101" title="tobi-in-b" src="/files/2010/12/tobi-in-b.gif" alt="" width="540" height="450" srcset="/files/2010/12/tobi-in-b.gif 540w, /files/2010/12/tobi-in-b-300x250.gif 300w" sizes="(max-width: 540px) 100vw, 540px" />](/files/2010/12/tobi-in-b.gif)

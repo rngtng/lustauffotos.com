@@ -11,4 +11,4 @@ comments: []
 ---
 [ted id=848 width=560 height=315]
 
-<http://www.ted.com/talks/simon\_sinek\_how\_great\_leaders\_inspire\_action.html>
+<http://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action.html>

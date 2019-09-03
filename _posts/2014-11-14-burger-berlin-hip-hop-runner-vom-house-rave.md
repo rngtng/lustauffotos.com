@@ -14,4 +14,4 @@ comments: []
 
 <http://burgersandhiphop.com>
 
-<http://www.last.fm/music/Badesalz/\_/Hip-Hop-House-Rave-Metal>
+<http://www.last.fm/music/Badesalz/_/Hip-Hop-House-Rave-Metal>

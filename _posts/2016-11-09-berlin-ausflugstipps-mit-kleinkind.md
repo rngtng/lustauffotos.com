@@ -13,4 +13,4 @@ comments: []
 Check: <http://www.eltern-zeit.de/berlin-mit-kleinkind-ausflugstipps/>  
 <https://www.rother.de/rother%20wanderbuch-berlin-%20wandern%20mit%20dem%20kinderwagen-3134.htm>
 
-Schmöckwitzer Werder: <https://www.rother.de/pdf/3763331344\_tour.pdf>
+Schmöckwitzer Werder: <https://www.rother.de/pdf/3763331344_tour.pdf>

@@ -17,4 +17,4 @@ Hotel Chevalier
 
 Mehr:
 
-<http://www.imdb.com/name/nm0027572/?ref\_=tt\_ov\_dr>
+<http://www.imdb.com/name/nm0027572/?ref_=tt_ov_dr>

@@ -11,6 +11,6 @@ comments: []
 ---
 Wow, einer meiner absoluten JugendFavoriteBandLeader Scott Weiland ist tot. Stone Temple Pilots for ever!
 
-<https://www.youtube.com/watch?v=x2\_dGkqYu6M>
+<https://www.youtube.com/watch?v=x2_dGkqYu6M>
 
 <http://www.visions.de/news/24123/Scott-Weiland-ist-tot>

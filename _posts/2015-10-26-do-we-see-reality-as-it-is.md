@@ -10,4 +10,4 @@ tags:
 - ted
 comments: []
 ---
-<http://www.ted.com/talks/donald\_hoffman\_do\_we\_see\_reality\_as\_it\_is>
+<http://www.ted.com/talks/donald_hoffman_do_we_see_reality_as_it_is>

@@ -13,7 +13,7 @@ tags:
   - pinnball
 ---
 <p style="text-align: center;">
-  <a href="http://www.lustauffotos.com/files/2011/03/IMG_9876.jpg" class="broken_link"><img class="aligncenter size-full wp-image-110" title="IMG_9876" src="http://www.lustauffotos.com/files/2011/03/IMG_9876.jpg" alt="" width="390" height="543" srcset="http://www.lustauffotos.com/files/2011/03/IMG_9876.jpg 929w, http://www.lustauffotos.com/files/2011/03/IMG_9876-215x300.jpg 215w, http://www.lustauffotos.com/files/2011/03/IMG_9876-736x1024.jpg 736w" sizes="(max-width: 390px) 100vw, 390px" /></a>
+  <a href="/files/2011/03/IMG_9876.jpg" class="broken_link"><img class="aligncenter size-full wp-image-110" title="IMG_9876" src="/files/2011/03/IMG_9876.jpg" alt="" width="390" height="543" srcset="/files/2011/03/IMG_9876.jpg 929w, /files/2011/03/IMG_9876-215x300.jpg 215w, /files/2011/03/IMG_9876-736x1024.jpg 736w" sizes="(max-width: 390px) 100vw, 390px" /></a>
 </p>
 
 Haben Nachwuchs.. 🙂

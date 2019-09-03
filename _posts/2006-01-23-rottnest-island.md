@@ -59,5 +59,5 @@ comments:
 As the island is only 11km long we took our bikes and for exploring. Weather was great, so we hanged arround the beaches and went snorkeling in the blue water. Check out the pics in the gallery! Here
 
 More on this:  
-<http://en.wikipedia.org/wiki/Rottnest\_Island>  
+<http://en.wikipedia.org/wiki/Rottnest_Island>  
 <http://maps.google.com/maps?f=q&hl=en&q=australia&btnG=Search&t=k&ll=-32.010696,115.510426&spn=0.101601,0.214577&t=k>

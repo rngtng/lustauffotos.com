@@ -13,4 +13,4 @@ Die beste Art die Stadt zu erkunden:
 
 Streetart Tour (link kommt)  
 Fototour (link kommt)  
-<http://www.koenig-friedrich.de/html/der\_spaziergang.html>
+<http://www.koenig-friedrich.de/html/der_spaziergang.html>
