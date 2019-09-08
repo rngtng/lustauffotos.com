@@ -1,14 +1,12 @@
 title: Lustauffotos.com
 description: " "
 author: tobi
-# baseurl:            "/startbootstrap-clean-blog-jekyll"
 url: http://www.lustauffotos.com/
 
 remote_theme: BlackrockDigital/startbootstrap-clean-blog-jekyll
 
 # Social Profiles
 twitter_username:   tobitobes
-# github_username:    rngtng
 
 # Add your google-analytics ID here to activate google analytics
 google_analytics:   UA-1074303-6
@@ -18,9 +16,12 @@ markdown:           kramdown
 paginate:           25
 paginate_path:      "/posts/page:num/"
 plugins:
+  - jekyll-github-metadata
   - jekyll-feed
   - jekyll-paginate
-  - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
+  - jekyll-sitemap
+  - jekyll-remote-theme
+  - jekyll-admin
 
 defaults:
   -
