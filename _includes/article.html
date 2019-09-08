@@ -14,5 +14,5 @@
     on
     {{ post.date | date: '%B %d, %Y' }} &middot; {% include read_time.html content=post.content %}
   </p>
-  <p>{{ post.excerpt | truncatewords: 30 }}</p>
+  <p>{{ post.content }}</p>
 </article>
