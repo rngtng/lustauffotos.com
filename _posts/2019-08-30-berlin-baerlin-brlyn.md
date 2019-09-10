@@ -1,12 +1,12 @@
 ---
 title: Berlin, Bärlin, BrlYn
+background: "/assets/header.png"
 date: '2019-08-30 22:07:50 -0500'
 layout: post
 categories:
 - Berlin
-tags: []
-comments: []
 ---
+
 Ever growin LinkList:
 
 # Essen  
@@ -31,6 +31,7 @@ http://www.frischeparadies.eu/?view=featured
 <http://www.ginnick.de/>
 <http://www.festin-berlin.com/index.html>
 <http://www.filetstueck-berlin.de/index-schoenhauser.html>
+<https://www.flyingroasters.de/en/coffee-shop-cafe-berlin-wedding>
 
 # Musik  
 <https://www.singen-in-berlin.de>  
@@ -44,11 +45,14 @@ http://www.frischeparadies.eu/?view=featured
 
 # Kiez  
 <https://www.kiezoase.de/>
+https://kiezhelden.berlin
 
 # Sonstiges  
 <https://www.atlasobscura.com/things-to-do/berlin-germany>  
 <https://www.bz-berlin.de/berlin/freizeitspass-in-berlin-muss-nicht-immer-viel-kosten>  
 <https://www.berliner-grossmarkt-gmbh.de>
+<https://www.start-with-a-friend.de>
+<https://interaktiv.tagesspiegel.de/wem-gehoert-berlin>
 
 # Kunst  
 <http://www.schoeneberger-art.de>  
