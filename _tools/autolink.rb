@@ -6,20 +6,21 @@ Encoding.default_external = Encoding::UTF_8
 Encoding.default_internal = Encoding::UTF_8
 # end
 
+require 'bundler/setup'
 require 'pry'
 require 'front_matter_parser'
 
-Dir. glob('../_posts/*.md').each do |filename2|
+Dir. glob('../_posts/*.md').each do |filename|
   puts filename
-  parsed = FrontMatterParser::Parser.parse_file(filename).front_matter
+  parsed = FrontMatterParser::Parser.parse_file(filename)
 
   content = parsed.content.gsub(/(^|\s)(https?:\/\/\S+)(\s|$)/, '\1<\2>\3')
   # content2 = content2.gsub(/\(<(https?:\/\/[^ \]\)\n]+)>\)/, '(\1)')
   # binding.pry  if content2.include?('\_')
   # content2 = content2.gsub('\_', '_')
 
-  File.open("#{filename)}", 'w') do |file|
-    file.write(front_matter.to_yaml)
+  File.open(filename, 'w') do |file|
+    file.write(parsed.front_matter.to_yaml)
     file.write("---\n")
     file.write(content)
   end

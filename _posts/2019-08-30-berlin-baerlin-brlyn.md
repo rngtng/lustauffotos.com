@@ -6,7 +6,6 @@ layout: post
 categories:
 - Berlin
 ---
-
 Ever growin LinkList:
 
 # Essen  
@@ -45,7 +44,7 @@ http://www.frischeparadies.eu/?view=featured
 
 # Kiez  
 <https://www.kiezoase.de/>
-https://kiezhelden.berlin
+<https://kiezhelden.berlin>
 
 # Sonstiges  
 <https://www.atlasobscura.com/things-to-do/berlin-germany>  
@@ -58,3 +57,4 @@ https://kiezhelden.berlin
 <http://www.schoeneberger-art.de>  
 <https://www.berliner-woche.de>  
 <https://stadtteilzeitung.nbhs.de>
+<http://berlocken.de>
