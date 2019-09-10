@@ -14,7 +14,7 @@ Dir. glob('../_posts/*.md').each do |filename|
   puts filename
   parsed = FrontMatterParser::Parser.parse_file(filename)
 
-  content = parsed.content.gsub(/(^|\s)(https?:\/\/\S+)(\s|$)/, '\1<\2>\3')
+  content = parsed.content.gsub(/(^|\s)(https?:\/\/\S+)\/?(\s|$)/, '\1<\2>\3')
   # content2 = content2.gsub(/\(<(https?:\/\/[^ \]\)\n]+)>\)/, '(\1)')
   # binding.pry  if content2.include?('\_')
   # content2 = content2.gsub('\_', '_')
