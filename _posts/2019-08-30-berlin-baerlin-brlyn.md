@@ -70,6 +70,7 @@ Ever growin LinkList:
 # Drum Herum
 <https://www.wecyclebrandenburg.com>
 <https://www.kristall-therme-ludwigsfelde.de>
+<http://kreativorte-brandenburg.de>
 
 # Sonstiges  
 <https://www.atlasobscura.com/things-to-do/berlin-germany>  
@@ -79,4 +80,5 @@ Ever growin LinkList:
 <https://interaktiv.tagesspiegel.de/wem-gehoert-berlin>
 <https://interaktiv.morgenpost.de/berlin-an-deiner-linie>
 <https://bbb.wandelwoche.org>
+<http://vinylrausch.de>
 <https://www.berliner-mieterverein.de/recht/infoblaetter/info-50-tipps-fuer-den-umzug-richtig-geplant-ist-halb-umgezogen.htm>
