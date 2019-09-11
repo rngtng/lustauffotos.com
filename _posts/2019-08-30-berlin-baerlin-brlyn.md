@@ -45,7 +45,6 @@ Ever growin LinkList:
 <https://stadtbewegung.de>
 <http://www.iheartberlin.de/2015/07/04/the-lakes-of-berlin/>
 <https://berlin-playgrounds.de/articles/great-water-parks-near-berlin-spassbader-und-erlebnisbader>
-<https://www.kristall-therme-ludwigsfelde.de>
 
 # Kids
 <https://www.kindaling.de>
@@ -57,6 +56,9 @@ Ever growin LinkList:
 <https://urbancoopberlin.de>
 <https://weltcafeberlin.jimdo.com>
 <http://www.leute-am-teute.de> (Prenzlb)
+<https://karthagoladen.wordpress.com>
+<https://de.groups.yahoo.com/neo/groups/freecycle-berlin/info>
+<http://engelnest.de>
 
 # Kunst  
 <http://www.schoeneberger-art.de>  
@@ -64,6 +66,10 @@ Ever growin LinkList:
 <https://stadtteilzeitung.nbhs.de>
 <http://berlocken.de>
 <http://rueckenwind.berlin>
+
+# Drum Herum
+<https://www.wecyclebrandenburg.com>
+<https://www.kristall-therme-ludwigsfelde.de>
 
 # Sonstiges  
 <https://www.atlasobscura.com/things-to-do/berlin-germany>  
