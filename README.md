@@ -1,5 +1,5 @@
-# Lustauffotos.com
-Static lustauffotos.com jekyll page
+# Lustauffotos.de
+Static lustauffotos.de jekyll page
 
 ## Sources
 Used sources:
