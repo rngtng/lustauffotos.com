@@ -2,7 +2,7 @@
 background: "/assets/header.png"
 title: "DaddyHacks #6 - 12 Principles of Child Development and Learning"
 ---
-Keiun Hack aber sehr wichtig das nicht zu vergessen ;)
+Kein Hack aber sehr wichtig das nicht zu vergessen ;)
 
 ## 12 Principles of Child Development and Learning	 
 
