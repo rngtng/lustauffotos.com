@@ -1,7 +1,7 @@
+url: https://www.lustauffotos.de
 title: Lustauffotos
 description: " "
 author: tobi
-url: http://www.lustauffotos.de/
 
 remote_theme: BlackrockDigital/startbootstrap-clean-blog-jekyll
 
@@ -15,13 +15,14 @@ google_analytics:   UA-1074303-6
 markdown:           kramdown
 paginate:           25
 paginate_path:      "/posts/page:num/"
+
+# see https://pages.github.com/versions/
 plugins:
   - jekyll-github-metadata
   - jekyll-feed
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
-  - jekyll-admin
 
 defaults:
   -
